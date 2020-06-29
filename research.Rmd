@@ -1,0 +1,47 @@
+---
+title: ""
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>Research</h1> </center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<p style="text-align: center;">
+<span style="text-align: center; display: inline-block; color: red" class="fa fa-4x fa-desktop" aria-hidden="true"></span>
+<span class="my-text"></span>
+</p>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+## Research Interests
+
+- Survey methods
+- Clinical trials
+
+## Application Interests
+
+- Psychology
+- Rare diseases
+- Economics  
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+## Selected Publications and Presentations
+Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en) or my [CV](https://raw.github.com/kimhochstedler/documents/master/KA_Hochstedler_CV.pdf).
+
+- **KA Hochstedler**, F Fang, R Tamura, T Braun, K Kidwell. [“Bayesian methods to compare dose levels to placebo in a small n sequential multiple assignment randomized trial (snSMART)”.](https://raw.github.com/kimhochstedler/documents/master/enar2020_slides.pptx) *Eastern North American Region (ENAR) International Biometric Society*, Virtual. March 2020.    
+- **KA Hochstedler**, G Bell, H Park, A Ghassabian, E Bell, R Sundaram, K Grantz, E Yeung. “Gestational Age at Birth and Early Childhood Development: the Upstate KIDS Study.” 2020. *American Journal of Perinatology*. [DOI: 10.1055/s-0040-1702937](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0040-1702937)
+- **KA Hochstedler**,V Helgeson, H Seltman. [“Meta-Analytic Review of Pronoun Use and Health and Relationship Outcomes”](https://raw.github.com/kimhochstedler/documents/master/sbm2018_poster.pptx). *Society of Behavioral Medicine*. New Orleans, LA. April 2018. 
+
+
+

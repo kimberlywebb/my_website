@@ -1,0 +1,81 @@
+---
+title: ""
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>Kim Hochstedler</h1> </center>
+
+<center>
+Ph.D. Student in [Statistics at Cornell University](https://stat.cornell.edu/)  
+**Pronouns:** she, her, hers
+</center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center>
+<img src="Kim_Hochstedler_headshot.png" style="width:20%;
+border:5px solid; border-color:black">
+</center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center>
+My name is Kim Hochstedler, and I am a Ph.D. student in the Department of Statistics at Cornell University. My current research interests lie in statistical methodology for survey research. I am interested in applications in psychology and economics. In my free time, you may find me swimming, cooking, or reading.    
+   
+Please find my CV [here](https://raw.github.com/kimhochstedler/documents/master/KA_Hochstedler_CV.pdf).   
+</center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center> <h3>My Timeline</h3> </center>
+
+```{r, echo = F, warning = F, fig.width=10, fig.align='center'}
+library(timevis)
+      
+data <- data.frame(
+  id      = 1:7,
+  content = c("Carnegie Mellon", "SIBS", "Helgeson Lab", "NIH",
+              "UMich", "MROQC", "Cornell"),
+  start   = c("2014-08-28", "2015-06-07", "2015-01-15", "2017-05-22",
+              "2018-09-01", "2018-09-01", "2020-08-24"),
+  end     = c("2018-05-20", "2015-07-15", "2018-05-20", "2017-08-11",
+              "2020-04-30", "2020-08-13", "2024-01-01"),
+  style = c("background-color: #b00; border-color: #666; color: #e0e0e0",
+            "background-color: #c5050c; border-color: #f7f7f7; color: #f7f7f7",
+            "background-color: #e0e0e0; border-color: #b00; color: #666",
+            "background-color: #0C5691; border-color: #626466; color: white",
+            "background-color: #FFCB05; border-color: #00274C; color: #00274C",
+            "background-color: #4952A7; border-color: #B3CDD6; color: white",
+            "background-color: #B31B1B; border-color: #222222; color: #FFFFFF"))
+
+timevis(data, width = 1000, height = 200,
+        options = list(
+    editable = TRUE,
+    onAdd = htmlwidgets::JS('function(item, callback) {
+      item.content = "New item! You visited my page";
+      callback(item);
+    }')
+  ))
+
+
+```
+
+
+- **Carnegie Mellon:** BS in [Statistics](http://www.stat.cmu.edu/) and [Psychology](https://www.cmu.edu/dietrich/psychology/index.html) from [Carnegie Mellon University](https://www.cmu.edu/)
+- **SIBS:** Student with the [Summer Institute in Biostatistics](https://www.nhlbi.nih.gov/grants-and-training/summer-institute-biostatistics) at the [University of Wisconsin - Madison](https://stat.wisc.edu/)
+- **Helgeson Lab:** Member of the [Gender, Relationships, and Health Lab](https://www.cmu.edu/dietrich/psychology/gender-relationships-health/) 
+- **NIH:** Intern at the National Institutes of Health, in the Epidemiology Branch of the [Eunice Kennedy Shriver National Institute of Child Health and Human Development](https://www.nichd.nih.gov/about/org/diphr/officebranch/eb)
+    + Worked with the [Upstate New York Infant Development Screening Program (Upstate KIDS)](https://www.nichd.nih.gov/about/org/diphr/officebranch/eb/infant-development)
+- **UMich:** MS in [Biostatistics](https://sph.umich.edu/biostat/) from the [University of Michigan School of Public Health](https://sph.umich.edu/)
+- **MROQC:** Statistician with the [Michigan Radiation Oncology Quality Consortium](https://www.mroqc.org/)
+- **Cornell:** PhD Student in [Statistics](https://stat.cornell.edu/) at [Cornell University](https://www.cornell.edu/)
+

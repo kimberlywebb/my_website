@@ -1,0 +1,68 @@
+---
+title: ""
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>About Me</h1> </center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center>
+<img src="swim.jpg" style="width:40%; border:5px solid; border-color: black;
+margin-right: 20px"
+align="right">
+</center>
+
+</div>
+<div style="margin-bottom:60px;">
+</div>
+
+- Alum of [Carnegie Mellon Swimming and Diving](http://athletics.cmu.edu/sports/wswimdive/index)   
+    + Here is a [reflection](https://thetartan.org/2018/4/2/sports/athleteprofile) on my swimming career
+    + Even though I am retired, my [team profile](https://athletics.cmu.edu/sports/wswimdive/2017-18/bios/hochstedler_kim_zazq?view=bio) is still up!    
+
+- I have enjoyed my time as a "swammer" with [Ann Arbor Masters Swim](https://www.a2gov.org/departments/Parks-Recreation/parks-places/mack/Pages/default.aspx)
+
+</div>
+<div style="margin-bottom:75px;">
+</div>
+
+<center>
+<img src="im_volleyball.jpg" style="width:40%; border:5px solid; border-color: black;
+margin-right: 20px"
+align="left">
+</center>
+
+
+</div>
+<div style="margin-bottom:150px;">
+</div>
+
+
+- Proud member of UM Biostatistics intramural softball, sand volleyball, wallyball and inner tube basketball teams!
+
+</div>
+<div style="margin-bottom:100px;">
+</div>
+
+<center>
+<img src="hiking_cropped.jpg" style="width:40%; border:5px solid; border-color: black;
+margin-right: 20px"
+align="right">
+</center>
+
+</div>
+<div style="margin-bottom:200px;">
+</div>
+
+- Eager to explore all the hiking and ice cream that Ithaca has to offer!
+
+
+</div>
+<div style="margin-bottom:200px;">
+</div>

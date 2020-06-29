@@ -1,0 +1,67 @@
+---
+title: ""
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>Teaching</h1> </center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<p style="text-align: center;">
+<span style="text-align: center; display: inline-block; color: red" class="fa fa-4x fa-chalkboard-teacher" aria-hidden="true"></span>
+<span class="my-text"></span>
+</p>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+
+## Teaching Philosophy
+As an instructor of statistics, my goal is to prepare students to apply their quantitative skills to their interests, passions, and problems. It is important that I prepare students to approach problems holistically and in context. I plan to achieve this goal through... 
+
+- Hands-on experiences with real-world data   
+- Exposure to a variety of statistical applications   
+
+I believe that bringing multiple perspectives to the classroom and allowing students to have personal choice in projects and datasets facilitates an inclusive and relevant learning environment.   
+    
+</div>
+<div style="margin-bottom:30px;">
+</div>
+
+<p style="text-align: center;">
+<span style="text-align: center; display: inline-block;" class="fa fa-2x fa-pencil" aria-hidden="true"></span>
+<span class="my-text">[Teaching Philosophy](https://raw.github.com/kimhochstedler/documents/master/teaching_philosophy.pdf)</span>
+</p>
+
+<p style="text-align: center;">
+<span style="text-align: center; display: inline-block;" class="fa fa-2x fa-file-text" aria-hidden="true"></span>
+<span class="my-text">[Sample Syllabus](https://raw.github.com/kimhochstedler/documents/master/sample_syllabus.pdf)</span>
+</p>
+
+<p style="text-align: center;">
+<span style="text-align: center; display: inline-block;" class="fa fa-2x fa-bar-chart" aria-hidden="true"></span>
+<span class="my-text">[Teaching Demonstration Slides](https://raw.github.com/kimhochstedler/documents/master/teaching_demo_slides.pptx)</span>
+</p>
+
+</div>
+<div style="margin-bottom:30px;">
+</div>
+
+
+## Teaching Experience
+
+- Course Designer for Nutrition 309: Hungry in America - Building Skills to Feed Communities, taught by [Susan Aaronson, M.A., R.D.](https://sph.umich.edu/faculty-profiles/aaronson-susan.html) and [Dr. Kate Bauer](https://sph.umich.edu/faculty-profiles/bauer-kate.html) at the University of Michigan, Spring 2020.    
+
+- Student in Public Health 803: Effective Teaching in Public Health, taught by [Dr. Olivia Anderson](https://sph.umich.edu/faculty-profiles/anderson-olivia.html) at the University of Michigan, Fall 2019.
+
+- Student Coordinator with the [Big Data Summer Institute](https://sph.umich.edu/bdsi/about/index.html) at the University of Michigan, Summer 2019.
+
+- Undergraduate Teaching Assistant for 85-241: Social Psychology with [Dr. Vicki Helgeson](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/helgeson-vicki.html) at Carnegie Mellon University, Fall 2017. 
+
+- Undergraduate Teaching Assistant for 85-219: Biological Foundations of Behavior with [Dr. Marlene Behrmann](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/behrmann-marlene.html) at Carnegie Mellon University, Spring 2018.
