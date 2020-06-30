@@ -1,9 +1,14 @@
 ---
 title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'undergrad.html'))})
 output:
   html_document:
     df_print: paged
-    css: "style.css
+    css: "style.css"
 ---
 
 <center> <h1>Undergraduate Education</h1> </center>
