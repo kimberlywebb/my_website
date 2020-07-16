@@ -35,7 +35,7 @@ output:
 
 - Psychology
 - Rare diseases
-- Economics  
+- Decision making  
 
 </div>
 <div style="margin-bottom:20px;">
