@@ -1,5 +1,10 @@
 ---
 title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'research.html'))})
 output:
   html_document:
     df_print: paged
@@ -29,8 +34,8 @@ output:
 ## Application Interests
 
 - Psychology
-- Decision making
 - Rare diseases
+- Decision making   
 
 </div>
 <div style="margin-bottom:20px;">
@@ -40,8 +45,6 @@ output:
 Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en) or my [CV](https://raw.github.com/kimhochstedler/documents/master/KA_Hochstedler_CV.pdf).
 
 - **KA Hochstedler**, F Fang, R Tamura, T Braun, K Kidwell. [“Bayesian methods to compare dose levels to placebo in a small n sequential multiple assignment randomized trial (snSMART)”.](https://raw.github.com/kimhochstedler/documents/master/enar2020_slides.pptx) *Eastern North American Region (ENAR) International Biometric Society*, Virtual. March 2020.    
-- **KA Hochstedler**, G Bell, H Park, A Ghassabian, E Bell, R Sundaram, K Grantz, E Yeung. “Gestational Age at Birth and Early Childhood Development: the Upstate KIDS Study.” 2020. *American Journal of Perinatology*. [DOI: 10.1055/s-0040-1702937](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0040-1702937)
+- **KA Hochstedler**, G Bell, H Park, A Ghassabian, E Bell, R Sundaram, K Grantz, E Yeung. “Gestational Age at Birth and Early Childhood Development: the Upstate KIDS Study.” 2020. *American Journal of Perinatology*. [DOI: 10.1055/s-0040-1702937](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0040-1702937)  
+    + This work was discussed in [this New York Times piece](https://www.nytimes.com/2020/06/08/well/family/premature-babies-preterm-birth-pregnancy-developmental-delays.html)!
 - **KA Hochstedler**,V Helgeson, H Seltman. [“Meta-Analytic Review of Pronoun Use and Health and Relationship Outcomes”](https://raw.github.com/kimhochstedler/documents/master/sbm2018_poster.pptx). *Society of Behavioral Medicine*. New Orleans, LA. April 2018. 
-
-
-
