@@ -29,8 +29,8 @@ output:
 ## Application Interests
 
 - Psychology
+- Decision making
 - Rare diseases
-- Economics  
 
 </div>
 <div style="margin-bottom:20px;">

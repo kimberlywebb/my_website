@@ -8,7 +8,7 @@ output:
 
 <center> <h1>Undergraduate Education</h1> </center>
 
-</div>
+<div>
 <div style="margin-bottom:20px;">
 </div>
 
@@ -16,7 +16,7 @@ output:
 <img src="cmu.png">
 </center>
 
-</div>
+<div>
 <div style="margin-bottom:20px;">
 </div>
 
