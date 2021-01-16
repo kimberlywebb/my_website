@@ -33,7 +33,7 @@ border:5px solid; border-color:black">
 </div>
 
 <center>
-My name is Kim Hochstedler, and I am a Ph.D. student in the Department of Statistics at Cornell University. My current research interests lie in statistical methodology for survey research. I am interested in applications in psychology and economics. In my free time, you may find me swimming, cooking, or reading.
+My name is Kim Hochstedler, and I am a Ph.D. student in the Department of Statistics at Cornell University. My current research interests lie in statistical methodology for survey research. I am interested in applications in psychology and decision making. In my free time, you may find me swimming, cooking, or reading.
    
 Please find my CV [here](https://raw.github.com/kimhochstedler/documents/master/KA_Hochstedler_CV.pdf).   
 </center>
