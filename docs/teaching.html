@@ -13,6 +13,7 @@
 
 <title>teaching.utf8</title>
 
+<script src="site_libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
@@ -24,8 +25,19 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/pagedtable-1.1/css/pagedtable.css" rel="stylesheet" />
 <script src="site_libs/pagedtable-1.1/js/pagedtable.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -397,11 +409,13 @@ Teaching
 <div id="teaching-experience" class="section level2">
 <h2>Teaching Experience</h2>
 <ul>
-<li><p>Course Designer for Nutrition 309: Hungry in America - Building Skills to Feed Communities, taught by <a href="https://sph.umich.edu/faculty-profiles/aaronson-susan.html">Susan Aaronson, M.A., R.D.</a> and <a href="https://sph.umich.edu/faculty-profiles/bauer-kate.html">Dr. Kate Bauer</a> at the University of Michigan, Spring 2020.</p></li>
-<li><p>Student in Public Health 803: Effective Teaching in Public Health, taught by <a href="https://sph.umich.edu/faculty-profiles/anderson-olivia.html">Dr. Olivia Anderson</a> at the University of Michigan, Fall 2019.</p></li>
+<li><p>Graduate Teaching Assistant for <em>Introductory Statistics</em> (online), taught by <a href="https://www.ilr.cornell.edu/people/m-karns">M. Elizabeth Karns, J.D., M.P.H.</a> at Cornell University, Spring 2021.</p></li>
+<li><p>Graduate Teaching Assistant for <em>Statistical Methods I</em> (graduate level, online), taught by <a href="http://faculty.bscb.cornell.edu/~basu/">Sumanta Basu, Ph.D.</a> at Cornell University, Fall 2020.</p></li>
+<li><p>Course Designer for <em>Hungry in America - Building Skills to Feed Communities</em>, taught by <a href="https://sph.umich.edu/faculty-profiles/aaronson-susan.html">Susan Aaronson, M.A., R.D.</a> and <a href="https://sph.umich.edu/faculty-profiles/bauer-kate.html">Dr. Kate Bauer</a> at the University of Michigan, Spring 2020.</p></li>
+<li><p>Student in <em>Effective Teaching in Public Health</em>, taught by <a href="https://sph.umich.edu/faculty-profiles/anderson-olivia.html">Dr. Olivia Anderson</a> at the University of Michigan, Fall 2019.</p></li>
 <li><p>Student Coordinator with the <a href="https://sph.umich.edu/bdsi/about/index.html">Big Data Summer Institute</a> at the University of Michigan, Summer 2019.</p></li>
-<li><p>Undergraduate Teaching Assistant for 85-241: Social Psychology with <a href="https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/helgeson-vicki.html">Dr. Vicki Helgeson</a> at Carnegie Mellon University, Fall 2017.</p></li>
-<li><p>Undergraduate Teaching Assistant for 85-219: Biological Foundations of Behavior with <a href="https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/behrmann-marlene.html">Dr. Marlene Behrmann</a> at Carnegie Mellon University, Spring 2018.</p></li>
+<li><p>Undergraduate Teaching Assistant for <em>Social Psychology</em> with <a href="https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/helgeson-vicki.html">Dr. Vicki Helgeson</a> at Carnegie Mellon University, Fall 2017.</p></li>
+<li><p>Undergraduate Teaching Assistant for <em>Biological Foundations of Behavior</em> with <a href="https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/behrmann-marlene.html">Dr. Marlene Behrmann</a> at Carnegie Mellon University, Spring 2018.</p></li>
 </ul>
 </div>
 
@@ -414,7 +428,7 @@ Teaching
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
