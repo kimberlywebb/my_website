@@ -1,5 +1,10 @@
 ---
 title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 layout: default
 output:
   html_document:
@@ -28,7 +33,11 @@ border:5px solid; border-color:black">
 </div>
 
 <center>
+<<<<<<< HEAD
 My name is Kim Hochstedler, and I am a Ph.D. student in the Department of Statistics at Cornell University. My current research interests lie in statistical methodology for survey research. I am interested in applications in psychology, economics, and decision making. In my free time, you may find me swimming, cooking, or reading.    
+=======
+My name is Kim Hochstedler, and I am a Ph.D. student in the Department of Statistics at Cornell University. My current research interests lie in statistical methodology for survey research. I am interested in applications in psychology and economics. In my free time, you may find me swimming, cooking, or reading.     
+>>>>>>> 4f3f1c184c1abfae58c413c6d0ac4c071ec0bc07
    
 Please find my CV [here](https://raw.github.com/kimhochstedler/documents/master/KA_Hochstedler_CV.pdf).   
 </center>
@@ -60,7 +69,6 @@ data <- data.frame(
 
 timevis(data, width = 1000, height = 200,
         options = list(
-    editable = TRUE,
     onAdd = htmlwidgets::JS('function(item, callback) {
       item.content = "New item! You visited my page";
       callback(item);

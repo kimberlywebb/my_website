@@ -1,5 +1,10 @@
 ---
 title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'phd.html'))})
 output:
   html_document:
     df_print: paged
@@ -21,7 +26,7 @@ output:
 </div>
 
 ## Doctor of Philosophy: Statistics
-Cornell University, College of Arts and Sciences, Ithaca, NY
+Cornell University Graduate School, Ithaca, NY 
 
 - **Entered:** Fall 2020    
 

@@ -1,9 +1,14 @@
 ---
 title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'undergrad.html'))})
 output:
   html_document:
     df_print: paged
-    css: "style.css
+    css: "style.css"
 ---
 
 <center> <h1>Undergraduate Education</h1> </center>
@@ -21,7 +26,7 @@ output:
 </div>
 
     
-## Bachelors of Science: Statistics and Psychology
+## Bachelors of Science: Statistics and Psychology 
 
 Carnegie Mellon University, Dietrich College of Humanities and Social Sciences, Pittsburgh, PA
 
@@ -53,7 +58,7 @@ Carnegie Mellon University, Dietrich College of Humanities and Social Sciences, 
 
 ## Articles and News
 
-- [Award-Season Sweep](https://www.cmu.edu/dietrich/news/news-stories/2018/may/kim-hochstedler.html)   
-- [Kim Hochstedler of Carnegie Mellon Awarded NCAA Postgraduate Scholarship](https://www.uaasports.info/sports/wswimdive/2017-18/releases/hochstedlerpgscholarship)
+- [A student feature](https://www.cmu.edu/dietrich/news/news-stories/2018/may/kim-hochstedler.html) from graduation
+- [Postgraduate plans](https://www.uaasports.info/sports/wswimdive/2017-18/releases/hochstedlerpgscholarship) and scholarship
 
 
