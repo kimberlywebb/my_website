@@ -32,14 +32,15 @@ align="right">
     + Even though I am retired, my [team profile](https://athletics.cmu.edu/sports/wswimdive/2017-18/bios/hochstedler_kim_zazq?view=bio) is still up!    
 
 - I have enjoyed my time as a "swammer" with [Ann Arbor Masters Swim](https://www.a2gov.org/departments/Parks-Recreation/parks-places/mack/Pages/default.aspx)
+- I recently tried open water swimming in Cayuga Lake!
 
 </div>
 <div style="margin-bottom:75px;">
 </div>
 
 <center>
-<img src="im_volleyball.jpg" style="width:40%; border:5px solid; border-color: black;
-margin-right: 20px"
+<img src="family_hiking.jpg" style="width:40%; border:5px solid; border-color: black;
+margin-right: 20px; transform:rotate(90deg)"
 align="left">
 </center>
 
@@ -49,23 +50,24 @@ align="left">
 </div>
 
 
-- Proud member of UM Biostatistics intramural softball, sand volleyball, wallyball and inner tube basketball teams!
+- I love exploring hiking trails in the Finger Lakes region with family and friends.
+- My favorite hiking spots are [Robert H. Treman State Park](https://parks.ny.gov/parks/roberttreman/) and [Taughannock Falls State Park](https://parks.ny.gov/parks/taughannockfalls) (pictured here).
 
 </div>
-<div style="margin-bottom:100px;">
+<div style="margin-bottom:150px;">
 </div>
 
 <center>
-<img src="hiking_cropped.jpg" style="width:40%; border:5px solid; border-color: black;
+<img src="pi_baking.jpg" style="width:30%; border:5px solid; border-color: black;
 margin-right: 20px"
 align="right">
 </center>
 
 </div>
-<div style="margin-bottom:200px;">
+<div style="margin-bottom:250px;">
 </div>
 
-- Eager to explore all the hiking and ice cream that Ithaca has to offer!
+- I like to bake for special occasions, like Pi Day, where I made my favorite [chocolate red raspberry cream pie](https://www.facebook.com/Essenhaus/photos/chocolate-and-red-raspberry-yes-please-the-chocolate-red-raspberry-cream-pie-has/2514185398610472/) with a stenciled cocoa powder $\pi$.
 
 
 </div>
