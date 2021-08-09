@@ -29,6 +29,11 @@ output:
 Cornell University Graduate School, Ithaca, NY 
 
 - **Entered:** Fall 2020    
+- **GPA:** 4.10
+- Outstanding Graduate Teaching Assistant in the Department of Statistics and Data Science, 2020-2021
+- President of the *Statistics Graduate Society*
+- **Advisor:** [Dr. Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells)
+- **Research Assistantship Advisor:** [Dr. Felix Thoemmes](https://www.human.cornell.edu/people/fjt36)
 
 </div>
 <div style="margin-bottom:20px;">
@@ -36,7 +41,7 @@ Cornell University Graduate School, Ithaca, NY
 
 ## Tips for Cornell students in statistics
 
-- None yet - I just got here!
+- Do not start graduate school during a global pandemic.
 
 ## Articles and News
 
