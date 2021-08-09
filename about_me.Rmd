@@ -39,8 +39,8 @@ align="right">
 </div>
 
 <center>
-<img src="family_hiking.jpg" style="width:40%; border:5px solid; border-color: black;
-margin-right: 20px; transform:rotate(90deg)"
+<img src="family_hiking.jpg" style="width:30%; border:5px solid; border-color: black;
+margin-right: 20px"
 align="left">
 </center>
 
