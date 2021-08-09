@@ -1,0 +1,36 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'software.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>Software</h1> </center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<p style="text-align: center;">
+<span style="text-align: center; display: inline-block; color: red" class="fa fa-4x fa-laptop" aria-hidden="true"></span>
+<span class="my-text"></span>
+</p>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+## Web applications
+
+- [Pneumonitis Prediction App:](https://ppa.mroqc.org/) Web-based application to estimate the risk of developing pneumonitis in lung cancer patients, based on treatment and clinical characteristics. Designed to aid in radiation treatment planning.
+- [Heavy-Tailed Distribution Expected Value Estimation Simulator:](https://kimhochstedler.shinyapps.io/heavytails/) Web-based application that runs simulations comparing the median-of-means and empirical mean estimators in heavy-tailed distributions.
+
+## R packages
+
+- [cornellcolors:](https://github.com/kimhochstedler/cornellcolors) R package with color palettes matching Cornell University's official branding and with color palettes inspired by iconic buildings at Cornell University.
