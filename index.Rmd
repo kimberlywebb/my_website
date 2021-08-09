@@ -48,20 +48,26 @@ Please find my CV [here](https://raw.github.com/kimhochstedler/documents/master/
 library(timevis)
       
 data <- data.frame(
-  id      = 1:7,
+  id      = 1:9,
   content = c("Carnegie Mellon", "SIBS", "Helgeson Lab", "NIH",
-              "UMich", "MROQC", "Cornell"),
+              "UMich", "MROQC", "Cornell", "CTI", "rddapp"),
   start   = c("2014-08-28", "2015-06-07", "2015-01-15", "2017-05-22",
-              "2018-09-01", "2018-09-01", "2020-08-24"),
+              "2018-09-01", "2018-09-01",
+              "2020-08-24",
+              "2021-08-24", "2021-08-26"),
   end     = c("2018-05-20", "2015-07-15", "2018-05-20", "2017-08-11",
-              "2020-04-30", "2020-08-13", "2024-01-01"),
+              "2020-04-30", "2020-08-13",
+              "2024-01-01",
+              "2022-05-10", "2022-05-10"),
   style = c("background-color: #b00; border-color: #666; color: #e0e0e0",
             "background-color: #c5050c; border-color: #f7f7f7; color: #f7f7f7",
             "background-color: #e0e0e0; border-color: #b00; color: #666",
             "background-color: #0C5691; border-color: #626466; color: white",
             "background-color: #FFCB05; border-color: #00274C; color: #00274C",
             "background-color: #4952A7; border-color: #B3CDD6; color: white",
-            "background-color: #B31B1B; border-color: #222222; color: #FFFFFF"))
+            "background-color: #B31B1B; border-color: #222222; color: #FFFFFF",
+            "background-color: #FFFFFF; border-color: #006699; color: #DF1E12",
+            "background-color: #F1EFDC; border-color: #DBE1E2; color: #3E4159"))
 
 timevis(data, width = 1000, height = 200,
         options = list(
@@ -83,4 +89,6 @@ timevis(data, width = 1000, height = 200,
 - **UMich:** MS in [Biostatistics](https://sph.umich.edu/biostat/) from the [University of Michigan School of Public Health](https://sph.umich.edu/)
 - **MROQC:** Statistician with the [Michigan Radiation Oncology Quality Consortium](https://www.mroqc.org/)
 - **Cornell:** PhD Student in [Statistics](https://stat.cornell.edu/) at [Cornell University](https://www.cornell.edu/)
+- **CTI:** Fellow in Cornell University's Center for Teaching Innovation [Graduate Teaching Fellowship](https://teaching.cornell.edu/cti-graduate-teaching-fellowship)
+- **rddapp:** Research assistantship with [Felix Thoemmes](https://www.human.cornell.edu/people/fjt36) to update the `rddapp` [R package](https://www.rdocumentation.org/packages/rddapp/versions/1.2.1).
 
