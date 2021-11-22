@@ -90,5 +90,5 @@ timevis(data, width = 1000, height = 200,
 - **MROQC:** Statistician with the [Michigan Radiation Oncology Quality Consortium](https://www.mroqc.org/)
 - **Cornell:** PhD Student in [Statistics](https://stat.cornell.edu/) at [Cornell University](https://www.cornell.edu/)
 - **CTI:** Fellow in Cornell University's Center for Teaching Innovation [Graduate Teaching Fellowship](https://teaching.cornell.edu/cti-graduate-teaching-fellowship)
-- **rddapp:** Research assistantship with [Felix Thoemmes](https://www.human.cornell.edu/people/fjt36) to update the `rddapp` [R package](https://www.rdocumentation.org/packages/rddapp/versions/1.2.1).
+- **rddapp:** Research assistantship with [Felix Thoemmes](https://www.human.cornell.edu/people/fjt36) to update the "rddapp" [R package](https://www.rdocumentation.org/packages/rddapp/versions/1.2.1).
 
