@@ -45,6 +45,6 @@ Cornell University Graduate School, Ithaca, NY
 
 ## Articles and News
 
-- None yet - I just got here!
+- Here is a [newsletter](https://raw.github.com/kimhochstedler/documents/master/graph_paper.pdf) that I wrote for statistical consulting project entitled "General principles for creating effective data visualizations".
 
 

@@ -26,12 +26,18 @@ output:
 <div style="margin-bottom:20px;">
 </div>
 
+## R packages
+
+- [rddapp:](https://www.felixthoemmes.com/rddapp/) The rddapp package provides a set of functions for the analysis of the regression-discontinuity design (RDD). The three main parts are: estimation of effects of interest, power analysis, and assumption checks.
+- [cornellcolors:](https://github.com/kimhochstedler/cornellcolors) R package with color palettes matching Cornell University's official branding and with color palettes inspired by iconic buildings at Cornell University.
+
 ## Web applications
 
 - [Pneumonitis Prediction App:](https://ppa.mroqc.org/) Web-based application to estimate the risk of developing pneumonitis in lung cancer patients, based on treatment and clinical characteristics. Designed to aid in radiation treatment planning.
 - [Heavy-Tailed Distribution Expected Value Estimation Simulator:](https://kimhochstedler.shinyapps.io/heavytails/) Web-based application that runs simulations comparing the median-of-means and empirical mean estimators in heavy-tailed distributions.
 - [Tswift in an Rscript:](https://kimhochstedler.shinyapps.io/tswizzle/) Web-based application to analyze components of Taylor Swift's top songs. Developed for a tutorial on R Shiny for beginners that I presented on December 7th, 2021 (materials available upon request).
 
-## R packages
+## Tutorials
 
-- [cornellcolors:](https://github.com/kimhochstedler/cornellcolors) R package with color palettes matching Cornell University's official branding and with color palettes inspired by iconic buildings at Cornell University.
+- A template and brief tutorial for creating websites using GitHub Pages and R is available on my [GitHub page](https://github.com/kimhochstedler/website_template).
+- Materials for my R Shiny tutorial (using [this web application](https://kimhochstedler.shinyapps.io/tswizzle/)) are available upon request.
