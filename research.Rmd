@@ -30,12 +30,14 @@ output:
 
 - Survey methods
 - Clinical trials
+- Misclassification
 
 ## Application Interests
 
 - Psychology
 - Rare diseases
-- Decision making   
+- Decision making
+- Criminal justice
 
 </div>
 <div style="margin-bottom:20px;">
