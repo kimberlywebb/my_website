@@ -31,7 +31,7 @@ align="right">
     + Here is a [reflection](https://thetartan.org/2018/4/2/sports/athleteprofile) on my swimming career
     + Even though I am retired, my [team profile](https://athletics.cmu.edu/sports/wswimdive/2017-18/bios/hochstedler_kim_zazq?view=bio) is still up!    
 
-- I have enjoyed my time as a "swammer" with [Ann Arbor Masters Swim](https://www.a2gov.org/departments/Parks-Recreation/parks-places/mack/Pages/default.aspx)
+- I enjoyed my time as a "swammer" with [Ann Arbor Masters Swim](https://www.a2gov.org/departments/Parks-Recreation/parks-places/mack/Pages/default.aspx)
 - I recently tried open water swimming in Cayuga Lake!
 
 </div>
@@ -58,7 +58,7 @@ align="left">
 </div>
 
 <center>
-<img src="pi_baking.jpg" style="width:30%; border:5px solid; border-color: black;
+<img src="pi_baking.jpg" style="width:25%; border:5px solid; border-color: black;
 margin-right: 20px"
 align="right">
 </center>
@@ -67,7 +67,7 @@ align="right">
 <div style="margin-bottom:300px;">
 </div>
 
-- I like to bake for special occasions, like Pi Day, where I made my favorite [chocolate red raspberry cream pie](https://www.facebook.com/Essenhaus/photos/chocolate-and-red-raspberry-yes-please-the-chocolate-red-raspberry-cream-pie-has/2514185398610472/) with a stenciled cocoa powder $\pi$.
+- I like to bake for special occasions, like Pi Day, where I made my favorite [French Silk pie](https://sallysbakingaddiction.com/french-silk-pie/) with a chocolate chip $\pi$.
 
 
 </div>

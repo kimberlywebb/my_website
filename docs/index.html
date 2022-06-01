@@ -13,7 +13,7 @@
 
 <title>index.knit</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
@@ -66,6 +66,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -90,6 +91,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -242,7 +246,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -255,7 +259,7 @@ $(document).ready(function () {
   <a href="index.html">Home</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Education
      
     <span class="caret"></span>
@@ -336,7 +340,7 @@ Kim Hochstedler
 </center>
 <center>
 Ph.D. Student in <a href="https://stat.cornell.edu/">Statistics at Cornell University</a><br />
-<strong>Pronouns:</strong> she, her, hers
+<strong>Pronouns:</strong> she/her
 </center>
 </div>
 <div style="margin-bottom:20px;">
@@ -351,7 +355,7 @@ border:5px solid; border-color:black">
 
 </div>
 <center>
-<p>My name is Kim Hochstedler, and I am a Ph.D. student in the Department of Statistics at Cornell University. My current research interests lie in statistical methodology for survey research. I am interested in applications in psychology and decision making. In my free time, you may find me swimming, cooking, or reading.</p>
+<p>I am a Ph.D. student in the Department of Statistics at Cornell University. I received my MS in Biostatistics from the University of Michigan in 2020 and graduated with my BS in Statistics and Psychology from Carnegie Mellon University in 2018. My current research is involves developing statistical methods for misclassified outcome data. I am interested in applications in psychology, criminal justice, and decision making.</p>
 Please find my CV <a href="https://raw.github.com/kimhochstedler/documents/master/KA_Hochstedler_CV.pdf">here</a>.
 </center>
 </div>
@@ -363,13 +367,13 @@ Please find my CV <a href="https://raw.github.com/kimhochstedler/documents/maste
 My Timeline
 </h3>
 </center>
-<div id="htmlwidget-e7df63b887cbbec1b0ee" class="timevis html-widget" style="width:1000px;height:200px;">
+<div id="htmlwidget-ac9c29b39d77a4a5752f" class="timevis html-widget" style="width:1000px;height:200px;">
 <div class="btn-group zoom-menu">
 <button type="button" class="btn btn-default btn-lg zoom-in" title="Zoom in">+</button>
 <button type="button" class="btn btn-default btn-lg zoom-out" title="Zoom out">-</button>
 </div>
 </div>
-<script type="application/json" data-for="htmlwidget-e7df63b887cbbec1b0ee">{"x":{"items":[{"id":"1","content":"Carnegie Mellon","start":"2014-08-28","end":"2018-05-20","style":"background-color: #b00; border-color: #666; color: #e0e0e0"},{"id":"2","content":"SIBS","start":"2015-06-07","end":"2015-07-15","style":"background-color: #c5050c; border-color: #f7f7f7; color: #f7f7f7"},{"id":"3","content":"Helgeson Lab","start":"2015-01-15","end":"2018-05-20","style":"background-color: #e0e0e0; border-color: #b00; color: #666"},{"id":"4","content":"NIH","start":"2017-05-22","end":"2017-08-11","style":"background-color: #0C5691; border-color: #626466; color: white"},{"id":"5","content":"UMich","start":"2018-09-01","end":"2020-04-30","style":"background-color: #FFCB05; border-color: #00274C; color: #00274C"},{"id":"6","content":"MROQC","start":"2018-09-01","end":"2020-08-13","style":"background-color: #4952A7; border-color: #B3CDD6; color: white"},{"id":"7","content":"Cornell","start":"2020-08-24","end":"2024-01-01","style":"background-color: #B31B1B; border-color: #222222; color: #FFFFFF"},{"id":"8","content":"CTI","start":"2021-08-24","end":"2022-05-10","style":"background-color: #FFFFFF; border-color: #006699; color: #DF1E12"},{"id":"9","content":"rddapp","start":"2021-08-26","end":"2022-05-10","style":"background-color: #F1EFDC; border-color: #DBE1E2; color: #3E4159"}],"groups":null,"showZoom":true,"zoomFactor":0.5,"fit":true,"options":{"onAdd":"function(item, callback) {\n      item.content = \"New item! You visited my page\";\n      callback(item);\n    }"},"height":200,"timezone":null,"api":[]},"evals":["options.onAdd"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-ac9c29b39d77a4a5752f">{"x":{"items":[{"id":"1","content":"Carnegie Mellon","start":"2014-08-28","end":"2018-05-20","style":"background-color: #b00; border-color: #666; color: #e0e0e0"},{"id":"2","content":"SIBS","start":"2015-06-07","end":"2015-07-15","style":"background-color: #c5050c; border-color: #f7f7f7; color: #f7f7f7"},{"id":"3","content":"Helgeson Lab","start":"2015-01-15","end":"2018-05-20","style":"background-color: #e0e0e0; border-color: #b00; color: #666"},{"id":"4","content":"NIH","start":"2017-05-22","end":"2017-08-11","style":"background-color: #0C5691; border-color: #626466; color: white"},{"id":"5","content":"UMich","start":"2018-09-01","end":"2020-04-30","style":"background-color: #FFCB05; border-color: #00274C; color: #00274C"},{"id":"6","content":"MROQC","start":"2018-09-01","end":"2020-08-13","style":"background-color: #4952A7; border-color: #B3CDD6; color: white"},{"id":"7","content":"Cornell","start":"2020-08-24","end":"2024-01-01","style":"background-color: #B31B1B; border-color: #222222; color: #FFFFFF"},{"id":"8","content":"CTI","start":"2021-08-24","end":"2023-05-21","style":"background-color: #497792; border-color: #3D5062; color: #EBF5F9"},{"id":"9","content":"rddapp","start":"2021-08-26","end":"2022-05-20","style":"background-color: white; border-color: red; color: black"},{"id":"10","content":"LinkedIn","start":"2022-08-22","end":"2023-05-21","style":"background-color: #0077B5; border-color: #000000; color: #FFFFFF"}],"groups":null,"showZoom":true,"zoomFactor":0.5,"fit":true,"options":{"onAdd":"function(item, callback) {\n      item.content = \"New item! You visited my page\";\n      callback(item);\n    }"},"height":200,"timezone":null,"api":[]},"evals":["options.onAdd"],"jsHooks":[]}</script>
 <ul>
 <li><strong>Carnegie Mellon:</strong> BS in <a href="http://www.stat.cmu.edu/">Statistics</a> and <a href="https://www.cmu.edu/dietrich/psychology/index.html">Psychology</a> from <a href="https://www.cmu.edu/">Carnegie Mellon University</a></li>
 <li><strong>SIBS:</strong> Student with the <a href="https://www.nhlbi.nih.gov/grants-and-training/summer-institute-biostatistics">Summer Institute in Biostatistics</a> at the <a href="https://stat.wisc.edu/">University of Wisconsin - Madison</a></li>
@@ -381,8 +385,9 @@ My Timeline
 <li><strong>UMich:</strong> MS in <a href="https://sph.umich.edu/biostat/">Biostatistics</a> from the <a href="https://sph.umich.edu/">University of Michigan School of Public Health</a></li>
 <li><strong>MROQC:</strong> Statistician with the <a href="https://www.mroqc.org/">Michigan Radiation Oncology Quality Consortium</a></li>
 <li><strong>Cornell:</strong> PhD Student in <a href="https://stat.cornell.edu/">Statistics</a> at <a href="https://www.cornell.edu/">Cornell University</a></li>
-<li><strong>CTI:</strong> Fellow in Cornell University’s Center for Teaching Innovation <a href="https://teaching.cornell.edu/cti-graduate-teaching-fellowship">Graduate Teaching Fellowship</a></li>
-<li><strong>rddapp:</strong> Research assistantship with <a href="https://www.human.cornell.edu/people/fjt36">Felix Thoemmes</a> to update the “rddapp” <a href="https://www.rdocumentation.org/packages/rddapp/versions/1.2.1">R package</a>.</li>
+<li><strong>CTI:</strong> Lead-fellow in Cornell University’s Center for Teaching Innovation <a href="https://teaching.cornell.edu/cti-graduate-teaching-fellowship">Graduate Teaching Fellowship</a></li>
+<li><strong>rddapp:</strong> Research assistantship with <a href="https://www.human.cornell.edu/people/fjt36">Felix Thoemmes</a> to update the <a href="https://www.felixthoemmes.com/rddapp/">“rddapp” R package</a></li>
+<li><strong>LinkedIn:</strong> PhD research fellow with the <a href="https://news.cornell.edu/stories/2022/03/linkedin-cornell-bowers-cis-launch-strategic-partnership">Bowers CIS Strategic Partnership Program with LinkedIn</a></li>
 </ul>
 
 
