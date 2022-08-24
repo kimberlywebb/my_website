@@ -28,16 +28,17 @@ output:
 
 ## Research Interests
 
-- Survey methods
-- Clinical trials
 - Misclassification
+- Regression discontinuity designs
+- Clinical trials
+- Survey methods
 
 ## Application Interests
 
+- Criminal justice
 - Psychology
 - Rare diseases
 - Decision making
-- Criminal justice
 
 </div>
 <div style="margin-bottom:20px;">
