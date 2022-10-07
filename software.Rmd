@@ -26,11 +26,12 @@ output:
 <div style="margin-bottom:20px;">
 </div>
 
-<center>
-<img align="right" src="COMBO_hex_sticker.png" style="width:20%">
-</center>
 
 ## R packages
+
+<center>
+<img align="right" src="hex_stickers.png" style="width:35%">
+</center>
 
 - [COMBO:](https://kimhochstedler.github.io/COMBO/) COMBO provides a set of functions for the analysis of regression models with binary outcome misclassification. 
   - **COMBO:** **CO**rrecting **M**isclassified **B**inary **O**utcomes.
