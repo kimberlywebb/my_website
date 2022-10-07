@@ -28,6 +28,10 @@ output:
 
 ## R packages
 
+<center>
+<img align="right" src="COMBO_hex_sticker.png" style="width:15%">
+</center>
+
 - [COMBO:](https://kimhochstedler.github.io/COMBO/) COMBO provides a set of functions for the analysis of regression models with binary outcome misclassification. 
   - **COMBO:** **CO**rrecting **M**isclassified **B**inary **O**utcomes.
 - [rddapp:](https://www.felixthoemmes.com/rddapp/) The rddapp package provides a set of functions for the analysis of the regression-discontinuity design (RDD). The three main parts are: estimation of effects of interest, power analysis, and assumption checks.
