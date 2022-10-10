@@ -35,10 +35,10 @@ output:
 
 ## Application Interests
 
-- Criminal justice
 - Psychology
+- Healthcare
 - Rare diseases
-- Decision making
+- Criminal justice
 
 </div>
 <div style="margin-bottom:20px;">
