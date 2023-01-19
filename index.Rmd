@@ -15,7 +15,7 @@ output:
 <center> <h1>Kim Hochstedler</h1> </center>
 
 <center>
-Ph.D. Student in [Statistics at Cornell University](https://stat.cornell.edu/)  
+Ph.D. Candidate in [Statistics at Cornell University](https://stat.cornell.edu/)  
 **Pronouns:** she/her
 
 I will be on the job market in the 2023-2024 academic year!
