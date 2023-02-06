@@ -30,7 +30,7 @@ output:
 ## R packages
 
 <center>
-<img align="right" src="hex_stickers.png" style="width:35%">
+<img align="right" src="hex_stickers.png" style="width:50%">
 </center>
 
 - [COMBO:](https://kimhochstedler.github.io/COMBO/) COMBO provides a set of functions for the analysis of regression models with binary outcome misclassification. 
