@@ -35,7 +35,7 @@ border:5px solid; border-color:black">
 </div>
 
 <center>
-I am a Ph.D. candidate in the Department of Statistics at Cornell University. I received my MS in Biostatistics from the University of Michigan in 2020 and graduated with my BS in Statistics and Psychology from Carnegie Mellon University in 2018. My current research is involves developing statistical methods for misclassified outcome data. I am interested in applications in psychology, healthcare, and criminal justice. 
+I am a Ph.D. candidate in the Department of Statistics at Cornell University. I received my MS in Biostatistics from the University of Michigan in 2020 and graduated with my BS in Statistics and Psychology from Carnegie Mellon University in 2018. My current research involves developing statistical methods for misclassified outcome data. I am interested in applications in psychology, healthcare, and criminal justice. 
    
 Please find my CV [here](https://raw.github.com/kimhochstedler/documents/master/KA_Hochstedler_CV.pdf).   
 </center>
