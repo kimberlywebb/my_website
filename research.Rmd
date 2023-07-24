@@ -23,7 +23,8 @@ output:
 :::
 
 <p style="text-align: center;">
-
+<span style="text-align: center; display: inline-block; color: red" class="fa fa-4x fa-magnifying-glass" aria-hidden="true"></span>
+<span class="my-text"></span>
 </p>
 
 </div>
