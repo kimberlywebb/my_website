@@ -40,11 +40,6 @@ I believe that bringing multiple perspectives to the classroom and allowing stud
 </div>
 
 <p style="text-align: center;">
-<span style="text-align: center; display: inline-block;" class="fa fa-2x fa-pencil" aria-hidden="true"></span>
-<span class="my-text">[Teaching Philosophy](https://raw.github.com/kimhochstedler/documents/master/teaching_philosophy.pdf)</span>
-</p>
-
-<p style="text-align: center;">
 <span style="text-align: center; display: inline-block;" class="fa fa-2x fa-file-text" aria-hidden="true"></span>
 <span class="my-text">[Sample Syllabus](https://raw.github.com/kimhochstedler/documents/master/sample_syllabus.pdf)</span>
 </p>
