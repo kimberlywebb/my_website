@@ -33,12 +33,12 @@ output:
 <img align="right" src="hex_stickers.png" style="width:50%">
 </center>
 
-- [COMBO:](https://kimhochstedler.github.io/COMBO/) COMBO provides a set of functions for the analysis of regression models with binary outcome misclassification. 
+- [COMBO:](https://kimberlywebb.github.io/COMBO/) COMBO provides a set of functions for the analysis of regression models with binary outcome misclassification. 
   - **COMBO:** **CO**rrecting **M**isclassified **B**inary **O**utcomes.
 - [rddapp:](https://www.felixthoemmes.com/rddapp/) The rddapp package provides a set of functions for the analysis of the regression-discontinuity design (RDD). The three main parts are: estimation of effects of interest, power analysis, and assumption checks.
-- [cornellcolors:](https://github.com/kimhochstedler/cornellcolors) R package with color palettes matching Cornell University's official branding and with color palettes inspired by iconic buildings at Cornell University.
-- [carnegiecolors:](https://github.com/kimhochstedler/carnegiecolors) R package with color palettes matching Carnegie Mellon University's official branding.
-- [maizeandblue:](https://github.com/kimhochstedler/maizeandblue) R package with color palettes matching the University of Michigan's official branding and with color palettes inspired by local eateries in Ann Arbor, Michigan. 
+- [cornellcolors:](https://github.com/kimberlywebb/cornellcolors) R package with color palettes matching Cornell University's official branding and with color palettes inspired by iconic buildings at Cornell University.
+- [carnegiecolors:](https://github.com/kimberlywebb/carnegiecolors) R package with color palettes matching Carnegie Mellon University's official branding.
+- [maizeandblue:](https://github.com/kimberlywebb/maizeandblue) R package with color palettes matching the University of Michigan's official branding and with color palettes inspired by local eateries in Ann Arbor, Michigan. 
 
 ## Web applications
 
@@ -48,5 +48,5 @@ output:
 
 ## Tutorials
 
-- A template and brief tutorial for creating websites using GitHub Pages and R is available on my [GitHub page](https://github.com/kimhochstedler/website_template).
+- A template and brief tutorial for creating websites using GitHub Pages and R is available on my [GitHub page](https://github.com/kimberlywebb/website_template).
 - Materials for my R Shiny tutorial (using [this web application](https://kimhochstedler.shinyapps.io/tswizzle/)) are available upon request.
