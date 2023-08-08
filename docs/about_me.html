@@ -13,7 +13,7 @@
 
 <title>about_me.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
@@ -34,8 +34,8 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/pagedtable-1.1/css/pagedtable.css" rel="stylesheet" />
 <script src="site_libs/pagedtable-1.1/js/pagedtable.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -146,11 +146,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -179,8 +183,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -188,16 +192,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -246,7 +243,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Kim Hochstedler</a>
+      <a class="navbar-brand" href="index.html">Kim Hochstedler Webb</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -292,13 +289,13 @@ $(document).ready(function () {
   </a>
 </li>
 <li>
-  <a href="https://github.com/kimhochstedler">
+  <a href="https://github.com/kimberlywebb">
     <span class="fa fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
-  <a href="https://twitter.com/kimhochstedler">
+  <a href="https://twitter.com/_kim_webb_">
     <span class="fa fa-twitter fa-lg"></span>
      
   </a>
@@ -338,7 +335,7 @@ About Me
 
 </div>
 <center>
-<img src="swim.JPG" style="width:40%; border:5px solid; border-color: black;
+<img src="swim.jpg" style="width:40%; border:5px solid; border-color: black;
 margin-right: 20px"
 align="right">
 </center>
@@ -347,12 +344,20 @@ align="right">
 
 </div>
 <ul>
-<li>Alum of <a href="http://athletics.cmu.edu/sports/wswimdive/index">Carnegie Mellon Swimming and Diving</a>
+<li>Alum of <a
+href="http://athletics.cmu.edu/sports/wswimdive/index">Carnegie Mellon
+Swimming and Diving</a>
 <ul>
-<li>Here is a <a href="https://thetartan.org/2018/4/2/sports/athleteprofile">reflection</a> on my swimming career</li>
-<li>Even though I am retired, my <a href="https://athletics.cmu.edu/sports/wswimdive/2017-18/bios/hochstedler_kim_zazq?view=bio">team profile</a> is still up!</li>
+<li>Here is a <a
+href="https://thetartan.org/2018/4/2/sports/athleteprofile">reflection</a>
+on my swimming career</li>
+<li>Even though I am retired, my <a
+href="https://athletics.cmu.edu/sports/wswimdive/2017-18/bios/hochstedler_kim_zazq?view=bio">team
+profile</a> is still up!</li>
 </ul></li>
-<li>I enjoyed my time as a “swammer” with <a href="https://www.a2gov.org/departments/Parks-Recreation/parks-places/mack/Pages/default.aspx">Ann Arbor Masters Swim</a></li>
+<li>I enjoyed my time as a “swammer” with <a
+href="https://www.a2gov.org/departments/Parks-Recreation/parks-places/mack/Pages/default.aspx">Ann
+Arbor Masters Swim</a></li>
 <li>I recently tried open water swimming in Cayuga Lake!</li>
 </ul>
 </div>
@@ -369,8 +374,13 @@ align="left">
 
 </div>
 <ul>
-<li>I love exploring hiking trails in the Finger Lakes region with family and friends.</li>
-<li>My favorite hiking spots are <a href="https://parks.ny.gov/parks/roberttreman/">Robert H. Treman State Park</a> and <a href="https://parks.ny.gov/parks/taughannockfalls">Taughannock Falls State Park</a> (pictured here).</li>
+<li>I love exploring hiking trails in the Finger Lakes region with
+family and friends.</li>
+<li>My favorite hiking spots are <a
+href="https://parks.ny.gov/parks/roberttreman/">Robert H. Treman State
+Park</a> and <a
+href="https://parks.ny.gov/parks/taughannockfalls">Taughannock Falls
+State Park</a> (pictured here).</li>
 </ul>
 </div>
 <div style="margin-bottom:150px;">
@@ -386,7 +396,11 @@ align="right">
 
 </div>
 <ul>
-<li>I like to bake for special occasions, like Pi Day, where I made my favorite <a href="https://sallysbakingaddiction.com/french-silk-pie/">French Silk pie</a> with a chocolate chip <span class="math inline">\(\pi\)</span>.</li>
+<li>I like to bake for special occasions, like Pi Day, where I made my
+favorite <a
+href="https://sallysbakingaddiction.com/french-silk-pie/">French Silk
+pie</a> with a chocolate chip <span
+class="math inline">\(\pi\)</span>.</li>
 </ul>
 </div>
 <div style="margin-bottom:200px;">

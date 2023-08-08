@@ -13,7 +13,7 @@
 
 <title>masters.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
@@ -34,8 +34,8 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/pagedtable-1.1/css/pagedtable.css" rel="stylesheet" />
 <script src="site_libs/pagedtable-1.1/js/pagedtable.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -146,11 +146,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -179,8 +183,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -188,16 +192,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -246,7 +243,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Kim Hochstedler</a>
+      <a class="navbar-brand" href="index.html">Kim Hochstedler Webb</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -292,13 +289,13 @@ $(document).ready(function () {
   </a>
 </li>
 <li>
-  <a href="https://github.com/kimhochstedler">
+  <a href="https://github.com/kimberlywebb">
     <span class="fa fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
-  <a href="https://twitter.com/kimhochstedler">
+  <a href="https://twitter.com/_kim_webb_">
     <span class="fa fa-twitter fa-lg"></span>
      
   </a>
@@ -346,40 +343,58 @@ Graduate Education - Masters
 </div>
 <div id="master-of-science-biostatistics" class="section level2">
 <h2>Master of Science: Biostatistics</h2>
-<p>The University of Michigan, School of Public Health, Ann Arbor, Michigan</p>
+<p>The University of Michigan, School of Public Health, Ann Arbor,
+Michigan</p>
 <ul>
 <li><strong>Graduated:</strong> May 2020<br />
 </li>
 <li><strong>GPA:</strong> 4.00</li>
-<li>Richard G. Cornell Fellowship recipient for outstanding academic performance</li>
-<li><strong>Research Assitantship Advisor:</strong> <a href="https://sph.umich.edu/faculty-profiles/schipper-matthew.html">Dr. Matthew Schipper</a><br />
+<li>Richard G. Cornell Fellowship recipient for outstanding academic
+performance</li>
+<li><strong>Research Assitantship Advisor:</strong> <a
+href="https://sph.umich.edu/faculty-profiles/schipper-matthew.html">Dr. Matthew
+Schipper</a><br />
 </li>
-<li><strong>Research and Academic Advisors:</strong> <a href="https://sph.umich.edu/faculty-profiles/kidwell-kelley.html">Dr. Kelley Kidwell</a>, <a href="https://sph.umich.edu/faculty-profiles/braun-thomas.html">Dr. Thomas Braun</a></li>
+<li><strong>Research and Academic Advisors:</strong> <a
+href="https://sph.umich.edu/faculty-profiles/kidwell-kelley.html">Dr. Kelley
+Kidwell</a>, <a
+href="https://sph.umich.edu/faculty-profiles/braun-thomas.html">Dr. Thomas
+Braun</a></li>
 </ul>
 </div>
 <div style="margin-bottom:20px;">
 
 </div>
 </div>
-<div id="tips-for-michigan-students-in-biostatistics" class="section level2">
+<div id="tips-for-michigan-students-in-biostatistics"
+class="section level2">
 <h2>Tips for Michigan students in biostatistics</h2>
 <ul>
-<li>Consider participating in a <a href="https://www.nhlbi.nih.gov/node-general/summer-institute-biostatistics">SIBS</a> program before applying.
+<li>Consider participating in a <a
+href="https://www.nhlbi.nih.gov/node-general/summer-institute-biostatistics">SIBS</a>
+program before applying.
 <ul>
-<li>If you’re already at Michigan, get involved with the <a href="https://sph.umich.edu/bdsi/">Big Data Summer Institute (BDSI)</a> as a current student coordinator. It is rewarding and fun!<br />
+<li>If you’re already at Michigan, get involved with the <a
+href="https://sph.umich.edu/bdsi/">Big Data Summer Institute (BDSI)</a>
+as a current student coordinator. It is rewarding and fun!<br />
 </li>
 </ul></li>
 <li>Be comfortable with coding in R or SAS.<br />
 </li>
-<li>Make sure you have hobbies and a support system outside of your graduate program.</li>
+<li>Make sure you have hobbies and a support system outside of your
+graduate program.</li>
 </ul>
 </div>
 <div id="articles-and-news" class="section level2">
 <h2>Articles and News</h2>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=uyh54EVLMi4&amp;feature=youtu.be&amp;fbclid=IwAR0QLGLehr4JZBGLnGzj82nu5Lmm3n39NIK2tdqHUQHhFCd0UAyUR5F1dpQ">2020 Virtual Graduation</a><br />
+<li><a
+href="https://www.youtube.com/watch?v=uyh54EVLMi4&amp;feature=youtu.be&amp;fbclid=IwAR0QLGLehr4JZBGLnGzj82nu5Lmm3n39NIK2tdqHUQHhFCd0UAyUR5F1dpQ">2020
+Virtual Graduation</a><br />
 </li>
-<li><a href="https://sph.umich.edu/biostat/biostat_2019review.html?fbclid=IwAR1-8CeuFy11hGwy5ZcSNtBDLqSTwUnp4yqU8UzaQn5C3E_7BLHH_ramunw">Richard G. Cornell Award and 2019 UM Biostatistics Highlights</a></li>
+<li><a
+href="https://sph.umich.edu/biostat/biostat_2019review.html?fbclid=IwAR1-8CeuFy11hGwy5ZcSNtBDLqSTwUnp4yqU8UzaQn5C3E_7BLHH_ramunw">Richard
+G. Cornell Award and 2019 UM Biostatistics Highlights</a></li>
 </ul>
 </div>
 

@@ -14,3 +14,7 @@ body {
 .fa-2x {
   vertical-align: middle;
 }
+
+jQuery.htmlPrefilter = function( html ) {
+	return html;
+};
