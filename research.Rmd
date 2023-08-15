@@ -53,7 +53,7 @@ output:
 
 ## Selected Publications and Presentations
 
-Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en) or my [CV](https://raw.github.com/kimhochstedler/documents/master/KA_Hochstedler_CV.pdf).
+Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en) or my [CV](https://raw.github.com/kimhochstedler/documents/master/KAH_Webb_CV.pdf).
 
 -   **KA Hochstedler** and M Wells, ["Statistical inference for association studies in the presence of binary outcome misclassification".](https://raw.github.com/kimhochstedler/documents/master/KA_Hochstedler_ENAR2023_Slides.pdf) *Eastern North American Region (ENAR) International Biometric Society*, Nashville, TN. March 2023.
 
