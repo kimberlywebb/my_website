@@ -19,6 +19,8 @@ navbar:
       href: teaching.html
     - text: "Software"
       href: software.html
+    - text: "DEI Efforts"
+      href: dei.html
     - text: "About Me"
       href: about_me.html
   right:

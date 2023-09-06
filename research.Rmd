@@ -70,3 +70,7 @@ Please see a full list on my [Google Scholar page](https://scholar.google.com/ci
 -   **KA Hochstedler**, G Bell, H Park, A Ghassabian, E Bell, R Sundaram, K Grantz, E Yeung. "Gestational Age at Birth and Early Childhood Development: the Upstate KIDS Study." March 2020. *American Journal of Perinatology*. [DOI: 10.1055/s-0040-1702937](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0040-1702937)
 
     -   This work was discussed in [this New York Times piece](https://www.nytimes.com/2020/06/08/well/family/premature-babies-preterm-birth-pregnancy-developmental-delays.html)
+
+
+## Future Plans
+- For more information about my research interests and future plans, please see my [research statement](https://raw.github.com/kimhochstedler/documents/master/KAH_Webb_ResearchStatement.pdf). 
