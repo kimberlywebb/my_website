@@ -28,7 +28,7 @@ output:
 
 
 ## Teaching Philosophy
-As an instructor of statistics, my goal is to prepare students to apply their quantitative skills to their interests, passions, and problems. It is important that I prepare students to approach problems holistically and in context. I plan to achieve this goal through... 
+As an instructor of statistics, my goal is to prepare students to apply their quantitative skills to their interests, passions, and problems. It is important that I prepare students to approach problems holistically and in context. I plan to achieve this goal through: 
 
 - Hands-on experiences with real-world data   
 - Exposure to a variety of statistical applications   
@@ -40,7 +40,12 @@ I believe that bringing multiple perspectives to the classroom and allowing stud
 </div>
 
 <p style="text-align: center;">
-<span style="text-align: center; display: inline-block;" class="fa fa-2x fa-file-text" aria-hidden="true"></span>
+<span style="text-align: center; display: inline-block;" class="fa fa-2x fa-file-lines" aria-hidden="true"></span>
+<span class="my-text">[Teaching Philosophy](https://raw.github.com/kimhochstedler/documents/master/KAH_Webb_TeachingStatement.pdf)</span>
+</p>
+
+<p style="text-align: center;">
+<span style="text-align: center; display: inline-block;" class="fa fa-2x fa-book" aria-hidden="true"></span>
 <span class="my-text">[Sample Syllabus](https://raw.github.com/kimhochstedler/documents/master/sample_syllabus.pdf)</span>
 </p>
 
