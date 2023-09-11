@@ -45,13 +45,18 @@ I believe that bringing multiple perspectives to the classroom and allowing stud
 </p>
 
 <p style="text-align: center;">
-<span style="text-align: center; display: inline-block;" class="fa fa-2x fa-book" aria-hidden="true"></span>
+<span style="text-align: center; display: inline-block;" class="fa fa-2x fa-pen-clip" aria-hidden="true"></span>
 <span class="my-text">[Sample Syllabus](https://raw.github.com/kimhochstedler/documents/master/sample_syllabus.pdf)</span>
 </p>
 
 <p style="text-align: center;">
 <span style="text-align: center; display: inline-block;" class="fa fa-2x fa-bar-chart" aria-hidden="true"></span>
 <span class="my-text">[Teaching Demonstration Slides](https://raw.github.com/kimhochstedler/documents/master/teaching_demo_slides.pptx)</span>
+</p>
+
+<p style="text-align: center;">
+<span style="text-align: center; display: inline-block;" class="fa fa-2x fa-folder" aria-hidden="true"></span>
+<span class="my-text">[Teaching Portfolio](https://kimberlywebb.github.io/teaching_portfolio/)</span>
 </p>
 
 </div>
