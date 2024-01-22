@@ -51,7 +51,7 @@ Cornell University Graduate School, Ithaca, NY
 - I was featured in one of Cornell's April 2023 [Student Spotlight](https://gradschool.cornell.edu/spotlights/student-spotlight-kim-hochstedler/) articles!
 - I was awarded [co-first place in Cornell's 2023 Three Minute Thesis competition](https://gradschool.cornell.edu/academic-progress/office-of-academic-and-student-affairs/three-minute-thesis/3mt-2023/).
 - A fellow doctoral student and I received [Distinguished Student Paper Awards](https://stat.cornell.edu/news/duan-hochstedler-receive-enar-distinguished-student-paper-awards) at the International Biometric Society Eastern North American Region’s (ENAR) Spring 2023 meeting.
-- A colleague and I earned a [Belonging at Cornell Mini Grant](https://diversity.cornell.edu/belonging/belonging-cornell-grant-program/belonging-cornell-mini-grants) to create a TA support program. 
+- A colleague and I earned a [Belonging at Cornell Mini Grant](https://diversity.cornell.edu/belonging/belonging-cornell-grant-program/belonging-cornell-mini-grants) to create a TA support program. Details on the "Advanced Graduate Teaching Cohort" program we created can be found [here](https://news.cornell.edu/stories/2024/01/graduate-tas-graduate-tas-belonging-cornell-mini-grant-funds-2023-advanced-graduate).
 - [Announcement of LinkedIn PhD Award recipients](https://cis.cornell.edu/inaugural-grants-announced-strategic-partnership-linkedin) from Cornell Bowers CIS Strategic Partnership with LinkedIn.
 - Here is a [newsletter](https://raw.github.com/kimhochstedler/documents/master/graph_paper.pdf) that I wrote for statistical consulting project entitled "General principles for creating effective data visualizations".
 
