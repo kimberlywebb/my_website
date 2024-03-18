@@ -55,6 +55,8 @@ output:
 
 Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en) or my [CV](https://raw.github.com/kimhochstedler/documents/master/KAH_Webb_CV.pdf).
 
+-   **KAH Webb** and MT Wells, ["Effect estimation in the presence of a misclassified binary mediator"](https://github.com/kimberlywebb/docs/blob/98d5153509436d0a66d1160b5056abc5bc16e6d6/KAH_Webb_ENAR_March2024_Slides.pdf?raw=true) *Eastern North American Region (ENAR) International Biometric Society*, Baltimore, MD. March 2024.
+
 -   **KAH Webb**, SA Riley, and MT Wells, "An assessment of racial disparities in pretrial decision-making using misclassification models". [*arXiv:2309.08599*](https://arxiv.org/abs/2309.08599). September 2023.
 
 -   **KAH Webb** and MT Wells, ["Statistical inference for association studies in the presence of binary outcome misclassification".](https://raw.github.com/kimhochstedler/documents/master/KA_Hochstedler_ENAR2023_Slides.pdf) *Eastern North American Region (ENAR) International Biometric Society*, Nashville, TN. March 2023.
