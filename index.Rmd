@@ -36,7 +36,7 @@ border:5px solid; border-color:black">
 <center>
 I am a Ph.D. candidate in the Department of Statistics at Cornell University. I received my MS in Biostatistics from the University of Michigan in 2020 and graduated with my BS in Statistics and Psychology from Carnegie Mellon University in 2018. My current research involves developing statistical methods for misclassified outcome data. I am interested in applications in psychology, healthcare, and criminal justice. 
    
-Please find my CV [here](https://raw.github.com/kimhochstedler/documents/master/KAH_Webb_CV.pdf).   
+Please find my CV [here](https://github.com/kimberlywebb/docs/blob/d69bfb376259947fc41255cf1b9a84c0f845581a/KAH_Webb_CV_2024-03-18.pdf?raw=true).   
 </center>
 
 </div>
