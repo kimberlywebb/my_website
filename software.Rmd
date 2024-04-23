@@ -30,11 +30,13 @@ output:
 ## R packages
 
 <center>
-<img align="right" src="hex_stickers.png" style="width:50%">
+<img align="right" src="hex_stickers_v2.png" style="width:50%">
 </center>
 
 - [COMBO:](https://kimberlywebb.github.io/COMBO/) COMBO provides a set of functions for the analysis of regression models with binary outcome misclassification. 
   - **COMBO:** **CO**rrecting **M**isclassified **B**inary **O**utcomes.
+- [COMMA:](https://kimberlywebb.github.io/COMMA/) COMMA provides a set of functions for mediation analysis with a potentially misclassified binary mediator variable. 
+  - **COMMA:** **CO**rrecting **M**isclassified **M**ediation **A**nalysis.
 - [rddapp:](https://www.felixthoemmes.com/rddapp/) The rddapp package provides a set of functions for the analysis of the regression-discontinuity design (RDD). The three main parts are: estimation of effects of interest, power analysis, and assumption checks.
 - [cornellcolors:](https://github.com/kimberlywebb/cornellcolors) R package with color palettes matching Cornell University's official branding and with color palettes inspired by iconic buildings at Cornell University.
 - [carnegiecolors:](https://github.com/kimberlywebb/carnegiecolors) R package with color palettes matching Carnegie Mellon University's official branding.
