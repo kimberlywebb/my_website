@@ -53,7 +53,7 @@ output:
 
 ## Selected Publications and Presentations
 
-Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en) or my [CV](https://github.com/kimberlywebb/docs/blob/d69bfb376259947fc41255cf1b9a84c0f845581a/KAH_Webb_CV_2024-03-18.pdf?raw=true).
+Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en) or my [CV](https://github.com/kimberlywebb/docs/blob/466cd6909b64bf49911fc52ad711ecfba19556fc/KAH_Webb_CV.pdf?raw=true).
 
 -   **KAH Webb** and MT Wells, ["Effect estimation in the presence of a misclassified binary mediator"](https://github.com/kimberlywebb/docs/blob/98d5153509436d0a66d1160b5056abc5bc16e6d6/KAH_Webb_ENAR_March2024_Slides.pdf?raw=true) *Eastern North American Region (ENAR) International Biometric Society*, Baltimore, MD. March 2024.
 
