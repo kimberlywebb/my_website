@@ -42,6 +42,7 @@ output:
 - [carnegiecolors:](https://github.com/kimberlywebb/carnegiecolors) R package with color palettes matching Carnegie Mellon University's official branding.
 - [maizeandblue:](https://github.com/kimberlywebb/maizeandblue) R package with color palettes matching the University of Michigan's official branding and with color palettes inspired by local eateries in Ann Arbor, Michigan.
 - [pittpalette:](https://github.com/kimberlywebb/pittpalette) R package with color palettes matching the University of Pittsburgh's official branding.
+- [lecreuset:](https://github.com/kimberlywebb/lecreuset) R package with color palettes matching the 2024 line of Le Creuset stoneware and enameled cast iron cookware. 
 
 ## Web applications
 
