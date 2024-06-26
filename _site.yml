@@ -5,14 +5,6 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Education"
-      menu: 
-        - text: "Undergraduate"
-          href: undergrad.html
-        - text: "Graduate - Masters"
-          href: masters.html
-        - text: "Graduate - PhD"
-          href: phd.html
     - text: "Research"
       href: research.html
     - text: "Teaching"
@@ -21,6 +13,14 @@ navbar:
       href: software.html
     - text: "DEI Efforts"
       href: dei.html
+    - text: "Education"
+      menu: 
+        - text: "Undergraduate"
+          href: undergrad.html
+        - text: "Graduate - Masters"
+          href: masters.html
+        - text: "Graduate - PhD"
+          href: phd.html
     - text: "About Me"
       href: about_me.html
   right:
