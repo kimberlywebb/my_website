@@ -18,7 +18,7 @@ output:
 </div>
 
 <p style="text-align: center;">
-<span style="text-align: center; display: inline-block; color: red" class="fa fa-4x fa-chalkboard-teacher" aria-hidden="true"></span>
+<span style="text-align: center; display: inline-block; color: #4b85d8" class="fa fa-4x fa-chalkboard-teacher" aria-hidden="true"></span>
 <span class="my-text"></span>
 </p>
 
