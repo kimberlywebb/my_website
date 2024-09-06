@@ -32,49 +32,65 @@ output:
 ::: {style="margin-bottom:20px;"}
 :::
 
-## Research Interests
+In my research, I aim to answer questions in public health and the social sciences by leveraging the complex mechanisms that underlie the data generation process. In observational studies, data may be imperfectly measured and using the observed, but potentially mismeasured, data can cause bias in statistical estimates. Importantly, this measurement problem does not dissipate with increasing sample size. Thus, even in the age of “big data”, statistical methodology for handling data measured with error is still particularly important.
 
--   Misclassification
--   Regression discontinuity designs
--   Clinical trials
--   Survey methods
+In designing novel statistical methodology for imperfect data, I develop tools to answer scientific questions and better understand the world around us. To further my goal of creating and applying useful statistical tools to address impactful problems, I seek out collaborations with social and public health scientists. I aim to share my methods with fellow statisticians and applied researchers by developing user-friendly software to accompany my methodological contributions.
 
-## Application Interests
+$~$
 
--   Psychology
--   Healthcare
--   Rare diseases
--   Criminal justice
+## Misclassification of Binary Variables
 
-</div>
+Much of my recent research is aimed at creating statistical methods for dealing with differential misclassification in binary outcome and mediator variables. In particular, I consider cases where a gold standard measure is not available— making validation studies impossible. I have applied these methods to study patterns of misdiagnosis in diseases like myocardial infarction and gestational hypertension. 
 
-::: {style="margin-bottom:20px;"}
-:::
+#### Related Papers
+-   **KAH Webb** and MT Wells, "Effect estimation in the presence of a misclassified binary mediator" [arXiv:2407.06970v2](https://arxiv.org/abs/2407.06970).
 
-## Selected Publications and Presentations
+-   **KAH Webb** and MT Wells, "Statistical inference for association studies in the presence of binary outcome misclassification". [arXiv:2303.10215](https://arxiv.org/abs/2303.10215).
 
-Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en) or my [CV](https://github.com/kimberlywebb/docs/blob/466cd6909b64bf49911fc52ad711ecfba19556fc/KAH_Webb_CV.pdf?raw=true).
+<center>
+<img align="center" src="COMBO_DAG_2023-08-24_v2.png" style="width:70%">
+</center>
+$~$
+$~$
 
--   **KAH Webb**, SA Riley, and MT Wells, ["An assessment of racial disparities in pretrial decision-making using misclassification models"](https://github.com/kimberlywebb/docs/blob/f9ce847a3ce17316370fb4a6e9044c39683b00ff/KAH_Webb_JSM2024_Slides_WebsiteVersion.pdf?raw=true). [*arXiv:2309.08599*](https://arxiv.org/abs/2309.08599) and presented at the *Joint Statistical Meetings*, Portland, OR. August 2024. 
+## Clinical Trial Design and Methodology
+I have also focused on designing clinical trials for specialized settings, including rare diseases. Because of the limited number of individuals affected by rare diseases, it is often difficult to accrue enough participants in trials for new treatments and thus these trials suffer from reduced power. In response to these challenges, I, along with my colleagues, developed a new small n, sequential, multiple assignment, randomized trial (snSMART) that is specifically intended for small samples.
 
--   **KAH Webb** and MT Wells, ["Effect estimation in the presence of a misclassified binary mediator"](https://github.com/kimberlywebb/docs/blob/98d5153509436d0a66d1160b5056abc5bc16e6d6/KAH_Webb_ENAR_March2024_Slides.pdf?raw=true) *Eastern North American Region (ENAR) International Biometric Society*, Baltimore, MD. March 2024.
+#### Related Papers
+-   **KA Hochstedler**${^*}$, F Fang${^*}$, R Tamura, T Braun, K Kidwell. "Bayesian methods to compare dose levels to placebo in a small n sequential multiple assignment randomized trial (snSMART)" February 2021. *Statistics in Medicine* [DOI:10.1002/sim.8813](https://doi.org/10.1002/sim.8813)
 
--   **KAH Webb** and MT Wells, ["Statistical inference for association studies in the presence of binary outcome misclassification".](https://raw.github.com/kimhochstedler/documents/master/KA_Hochstedler_ENAR2023_Slides.pdf) *Eastern North American Region (ENAR) International Biometric Society*, Nashville, TN. March 2023.
+    -   $*$ Denotes co-first author.
 
-    -   This work is available as an arXiv preprint: [arXiv:2303.10215](https://arxiv.org/abs/2303.10215).
-    
-</div>
-    
-+   JR Wilkie, **KA Hochstedler**, MJ Schipper, MM Matuszak, P Paximadis, MM Dominello, I Grills, JA Hayman, R Dess, AF Dragovic, R Jagsi, LJ Pierce, DE Spratt, D Bergsma, TP Boike, B Movsas, S Jolly. "Association between physician- and patient-reported symptoms in patients treated with definitive radiation therapy for locally advanced lung cancer in a statewide consortium." March 2022. *International Journal of Radiation Oncology-Biology-Physics*. [DOI: 10.1016/j.ijrobp.2021.11.024](https://doi.org/10.1016/j.ijrobp.2021.11.024)
+<center>
+<img align="center" src="snSMART_SiM_figure.png" style="width:60%">
+</center>
+$~$
+$~$
 
--   **KA Hochstedler**, F Fang, R Tamura, T Braun, K Kidwell. ["Bayesian methods to compare dose levels to placebo in a small n sequential multiple assignment randomized trial (snSMART)".](https://raw.github.com/kimhochstedler/documents/master/enar2020_slides.pptx) *Eastern North American Region (ENAR) International Biometric Society*, Virtual. March 2020.
+## Scientific Tools for Clinicians and Statisticians
+My collaborative work has aimed to answer clinically valuable questions various areas of healthcare research, with a focus on creating useful scientific tools for clinicians and statisticians. Alongside methodological developments, I develop R packages so that fellow researchers can use the tools I created in their own work. In addition, I create R Shiny web applications so that scientists and clinicians can access new research tools in a user-friendly way. For a full list of my software, applications, and tutorials, please visit my "Software" page, [here](https://kimhwebb.com/software.html). 
 
-+   **KA Hochstedler**,V Helgeson, H Seltman. ["Meta-Analytic Review of Pronoun Use and Health and Relationship Outcomes"](https://raw.github.com/kimhochstedler/documents/master/sbm2018_poster.pptx). *Society of Behavioral Medicine*. New Orleans, LA. April 2018.
+#### Related Projects
+- **KAH Webb** (2024). [COMBO: Correcting Misclassified Binary Outcomes in Association Studies](https://kimberlywebb.github.io/COMBO/). R package version 1.1.0.
 
--   **KA Hochstedler**, G Bell, H Park, A Ghassabian, E Bell, R Sundaram, K Grantz, E Yeung. "Gestational Age at Birth and Early Childhood Development: the Upstate KIDS Study." March 2020. *American Journal of Perinatology*. [DOI: 10.1055/s-0040-1702937](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0040-1702937)
+- **KAH Webb** (2024). [COMMA: Correcting Misclassified Mediation Analysis](https://kimberlywebb.github.io/COMMA/). R package version 1.0.0.
 
-    -   This work was discussed in [this New York Times piece](https://www.nytimes.com/2020/06/08/well/family/premature-babies-preterm-birth-pregnancy-developmental-delays.html)
+- **KA Hochstedler** (2019). [Pneumonitis Prediction App](https://ppa.mroqc.org/). 
 
+<center>
+<img align="center" src="ppa_app_screenshot.png" style="width:90%">
+</center>
+$~$
+$~$
 
-## Future Plans
-- For more information about my research interests and future plans, please see my [research statement](https://raw.github.com/kimhochstedler/documents/master/KAH_Webb_ResearchStatement.pdf). 
+## Fairness in Pretrial Detention
+The increasing use of algorithms for decision-making poses a challenge for our society. For example, risk assessment algorithms have been developed and deployed to aid in pretrial detention decisions within in the criminal justice system. While these tools were designed to make predictions with greater accuracy than judges, there is still concern that risk assessment algorithms may be biased against minority groups. I aim to understand potential biases in algorithmic decision-making by viewing the bias a ``noisy labels'' or misclassification problem, and developing misclassification modeling approaches to quantify prediction accuracy across groups in the data. 
+
+#### Related Papers
+-   **KAH Webb**, SA Riley, and MT Wells, "An assessment of racial disparities in pretrial decision-making using misclassification models". [arXiv:2309.08599](https://arxiv.org/abs/2309.08599).
+
+<center>
+<img align="center" src="vprai_figure.png" style="width:70%">
+</center>
+$~$
+

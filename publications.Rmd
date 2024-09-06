@@ -1,0 +1,65 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'publications.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+
+<center>
+
+<h1>Publications</h1>
+
+</center>
+
+</div>
+
+::: {style="margin-bottom:20px;"}
+:::
+
+<p style="text-align: center;">
+<span style="text-align: center; display: inline-block; color: #4b85d8" class="fa fa-4x fa-file-lines" aria-hidden="true"></span>
+<span class="my-text"></span>
+</p>
+
+</div>
+
+::: {style="margin-bottom:20px;"}
+:::
+
+## Selected Publications
+
+Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en) or my [CV](https://github.com/kimberlywebb/docs/blob/466cd6909b64bf49911fc52ad711ecfba19556fc/KAH_Webb_CV.pdf?raw=true).
+
+$~$
+$~$
+
+#### Preprints and Submitted Papers
+
+-   **KAH Webb**, SA Riley, and MT Wells, "An assessment of racial disparities in pretrial decision-making using misclassification models". [arXiv:2309.08599](https://arxiv.org/abs/2309.08599).
+
+-   **KAH Webb** and MT Wells, "Effect estimation in the presence of a misclassified binary mediator" [arXiv:2407.06970v2](https://arxiv.org/abs/2407.06970).
+
+-   **KAH Webb** and MT Wells, "Statistical inference for association studies in the presence of binary outcome misclassification". [arXiv:2303.10215](https://arxiv.org/abs/2303.10215).
+
+$~$
+
+#### Peer-Reviewed Journal Articles
+
+-   **KA Hochstedler**${^*}$, F Fang${^*}$, R Tamura, T Braun, K Kidwell. "Bayesian methods to compare dose levels to placebo in a small n sequential multiple assignment randomized trial (snSMART)" February 2021. *Statistics in Medicine* [DOI:10.1002/sim.8813](https://doi.org/10.1002/sim.8813)
+
+    -   $*$ Denotes co-first author.
+
+</div>
+
+-   JR Wilkie, **KA Hochstedler**, MJ Schipper, MM Matuszak, P Paximadis, MM Dominello, I Grills, JA Hayman, R Dess, AF Dragovic, R Jagsi, LJ Pierce, DE Spratt, D Bergsma, TP Boike, B Movsas, S Jolly. "Association between physician- and patient-reported symptoms in patients treated with definitive radiation therapy for locally advanced lung cancer in a statewide consortium." March 2022. *International Journal of Radiation Oncology-Biology-Physics*. [DOI: 10.1016/j.ijrobp.2021.11.024](https://doi.org/10.1016/j.ijrobp.2021.11.024)
+
+-   **KA Hochstedler**, G Bell, H Park, A Ghassabian, E Bell, R Sundaram, K Grantz, E Yeung. "Gestational Age at Birth and Early Childhood Development: the Upstate KIDS Study." March 2020. *American Journal of Perinatology*. [DOI: 10.1055/s-0040-1702937](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0040-1702937)
+
+    -   This work was discussed in [this New York Times piece](https://www.nytimes.com/2020/06/08/well/family/premature-babies-preterm-birth-pregnancy-developmental-delays.html).
