@@ -84,7 +84,7 @@ $~$
 $~$
 
 ## Fairness in Pretrial Detention
-The increasing use of algorithms for decision-making poses a challenge for our society. For example, risk assessment algorithms have been developed and deployed to aid in pretrial detention decisions within in the criminal justice system. While these tools were designed to make predictions with greater accuracy than judges, there is still concern that risk assessment algorithms may be biased against minority groups. I aim to understand potential biases in algorithmic decision-making by viewing the bias a ``noisy labels'' or misclassification problem, and developing misclassification modeling approaches to quantify prediction accuracy across groups in the data. 
+The increasing use of algorithms for decision-making poses a challenge for our society. For example, risk assessment algorithms have been developed and deployed to aid in pretrial detention decisions within in the criminal justice system. While these tools were designed to make predictions with greater accuracy than judges, there is still concern that risk assessment algorithms may be biased against minority groups. I aim to understand potential biases in algorithmic decision-making by viewing the bias a "noisy labels" or misclassification problem, and developing misclassification modeling approaches to quantify prediction accuracy across groups in the data. 
 
 #### Related Papers
 -   **KAH Webb**, SA Riley, and MT Wells, "An assessment of racial disparities in pretrial decision-making using misclassification models". [arXiv:2309.08599](https://arxiv.org/abs/2309.08599).
