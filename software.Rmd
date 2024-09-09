@@ -27,7 +27,7 @@ output:
 </div>
 
 
-## R packages
+## R Packages
 
 <center>
 <img align="right" src="hex_stickers_v2.png" style="width:50%">
@@ -44,7 +44,7 @@ output:
 - [pittpalette:](https://github.com/kimberlywebb/pittpalette) R package with color palettes matching the University of Pittsburgh's official branding.
 - [lecreuset:](https://github.com/kimberlywebb/lecreuset) R package with color palettes matching the 2024 line of Le Creuset stoneware and enameled cast iron cookware. 
 
-## Web applications
+## Web Applications
 
 - [Pneumonitis Prediction App:](https://ppa.mroqc.org/) Web-based application to estimate the risk of developing pneumonitis in lung cancer patients, based on treatment and clinical characteristics. Designed to aid in radiation treatment planning.
 - [Heavy-Tailed Distribution Expected Value Estimation Simulator:](https://kimhochstedler.shinyapps.io/heavytails/) Web-based application that runs simulations comparing the median-of-means and empirical mean estimators in heavy-tailed distributions.
