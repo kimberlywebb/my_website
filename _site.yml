@@ -39,7 +39,7 @@ navbar:
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/kim-h-webb/
     - icon: fa-google fa-lg
-      href: https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en
+      href: https://scholar.google.com/citations?user=e8cVQlIAAAAJ&hl=en&oi=ao
       
 output:
   html_document:
