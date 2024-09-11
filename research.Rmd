@@ -83,7 +83,7 @@ My collaborative work has aimed to answer clinically valuable questions various 
 $~$
 $~$
 
-## Fairness in Pretrial Detention
+## Fairness in Pretrial Detention Decisions
 The increasing use of algorithms for decision-making poses a challenge for our society. For example, risk assessment algorithms have been developed and deployed to aid in pretrial detention decisions within in the criminal justice system. While these tools were designed to make predictions with greater accuracy than judges, there is still concern that risk assessment algorithms may be biased against minority groups. I aim to understand potential biases in algorithmic decision-making by viewing the bias a "noisy labels" or misclassification problem, and developing misclassification modeling approaches to quantify prediction accuracy across groups in the data. 
 
 #### Related Papers
