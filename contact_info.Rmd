@@ -11,4 +11,4 @@ output:
     css: "style.css"
 ---
 
-Please contact me at `kiw58 at pitt dot edu`
+Please contact me at `kimberlywebb at pitt dot edu`
