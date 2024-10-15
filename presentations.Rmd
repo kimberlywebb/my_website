@@ -41,7 +41,7 @@ $~$
 
 #### Upcoming
 
--   **KAH Webb** and MT Wells, ["Effect estimation in the presence of a misclassified binary mediator"](https://github.com/kimberlywebb/docs/blob/de4d9a41d8435258c42005bcf936c6f20021758b/KAH_Webb_WSDS2024_slides_website_version.pdf?raw=true). Invited talk at *Women in Statistics and Data Science*, Reston, VA. October 2024.
+-   **KAH Webb** and MT Wells, ["Effect estimation in the presence of a misclassified binary mediator"](https://github.com/kimberlywebb/docs/blob/0dc46489b01436856aa56630cfd117b8f81a34df/KAH_Webb_WSDS2024_slides_website_version.pdf?raw=true). Invited talk at *Women in Statistics and Data Science*, Reston, VA. October 2024.
 
 $~$
 
