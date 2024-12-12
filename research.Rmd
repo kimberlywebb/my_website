@@ -45,7 +45,7 @@ Much of my recent research is aimed at creating statistical methods for dealing 
 #### Related Papers
 -   **KAH Webb** and MT Wells, "Effect estimation in the presence of a misclassified binary mediator" [arXiv:2407.06970v2](https://arxiv.org/abs/2407.06970).
 
--   **KAH Webb** and MT Wells, "Statistical inference for association studies in the presence of binary outcome misclassification". [arXiv:2303.10215](https://arxiv.org/abs/2303.10215).
+-   **KAH Webb** and MT Wells, "Statistical inference for association studies in the presence of binary outcome misclassification". In press at *Statistics in Medicine*. [arXiv:2303.10215](https://arxiv.org/abs/2303.10215).
 
 <center>
 <img align="center" src="COMBO_DAG_2023-08-24_v2.png" style="width:70%">
