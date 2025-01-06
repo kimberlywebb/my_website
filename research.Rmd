@@ -43,9 +43,9 @@ $~$
 Much of my recent research is aimed at creating statistical methods for dealing with differential misclassification in binary outcome and mediator variables. In particular, I consider cases where a gold standard measure is not available— making validation studies impossible. I have applied these methods to study patterns of misdiagnosis in diseases like myocardial infarction and gestational hypertension. 
 
 #### Related Papers
--   **KAH Webb** and MT Wells, "Effect estimation in the presence of a misclassified binary mediator" [arXiv:2407.06970v2](https://arxiv.org/abs/2407.06970).
+-   **KAH Webb** and MT Wells, "Effect estimation in the presence of a misclassified binary mediator" In press at *Statistical Methods in Medical Research*.
 
--   **KAH Webb** and MT Wells, "Statistical inference for association studies in the presence of binary outcome misclassification". In press at *Statistics in Medicine*. [arXiv:2303.10215](https://arxiv.org/abs/2303.10215).
+-   **KAH Webb** and MT Wells, "Statistical inference for association studies in the presence of binary outcome misclassification". In press at *Statistics in Medicine*.
 
 <center>
 <img align="center" src="COMBO_DAG_2023-08-24_v2.png" style="width:70%">
@@ -83,7 +83,7 @@ My collaborative work has aimed to answer clinically valuable questions various 
 $~$
 $~$
 
-## Fairness in Pretrial Detention Decisions
+## Fairness in Pretrial Detention
 The increasing use of algorithms for decision-making poses a challenge for our society. For example, risk assessment algorithms have been developed and deployed to aid in pretrial detention decisions within in the criminal justice system. While these tools were designed to make predictions with greater accuracy than judges, there is still concern that risk assessment algorithms may be biased against minority groups. I aim to understand potential biases in algorithmic decision-making by viewing the bias a "noisy labels" or misclassification problem, and developing misclassification modeling approaches to quantify prediction accuracy across groups in the data. 
 
 #### Related Papers

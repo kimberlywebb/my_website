@@ -35,7 +35,7 @@ output:
 
 ## Selected Publications
 
-Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=e8cVQlIAAAAJ&hl=en&oi=ao) or my [CV](https://github.com/kimberlywebb/docs/blob/9b04879b022bb379bb329941d144994cc19d30bd/KAH_Webb_CV.pdf?raw=true).
+Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en) or my [CV](https://github.com/kimberlywebb/docs/blob/466cd6909b64bf49911fc52ad711ecfba19556fc/KAH_Webb_CV.pdf?raw=true).
 
 $~$
 $~$
@@ -44,13 +44,14 @@ $~$
 
 -   **KAH Webb**, SA Riley, and MT Wells, "An assessment of racial disparities in pretrial decision-making using misclassification models". [arXiv:2309.08599](https://arxiv.org/abs/2309.08599).
 
--   **KAH Webb** and MT Wells, "Effect estimation in the presence of a misclassified binary mediator" [arXiv:2407.06970v2](https://arxiv.org/abs/2407.06970).
-
+-   **KAH Webb** and MT Wells, "COMBO and COMMA: R packages for regression modeling and inference in the presence of misclassified binary mediator or outcome variables".
 $~$
 
 #### Peer-Reviewed Journal Articles
 
--   **KAH Webb** and MT Wells, "Statistical inference for association studies in the presence of binary outcome misclassification" December 2024. In press at *Statistics in Medicine*. 
+-   **KAH Webb** and MT Wells, "Effect estimation in the presence of a misclassified binary mediator" In press at *Statistical Methods in Medical Research*.
+
+-   **KAH Webb** and MT Wells, "Statistical inference for association studies in the presence of binary outcome misclassification". In press at *Statistics in Medicine*.
 
 -   **KA Hochstedler**${^*}$, F Fang${^*}$, R Tamura, T Braun, K Kidwell. "Bayesian methods to compare dose levels to placebo in a small n sequential multiple assignment randomized trial (snSMART)" February 2021. *Statistics in Medicine* [DOI:10.1002/sim.8813](https://doi.org/10.1002/sim.8813)
 
