@@ -41,13 +41,15 @@ $~$
 
 #### Upcoming
 
--   **KAH Webb** and MT Wells, ["Effect estimation in the presence of a misclassified binary mediator"](https://github.com/kimberlywebb/docs/blob/0dc46489b01436856aa56630cfd117b8f81a34df/KAH_Webb_WSDS2024_slides_website_version.pdf?raw=true). Invited talk at *Women in Statistics and Data Science*, Reston, VA. October 2024.
+-   **KAH Webb** and MT Wells, "The misdiagnosed mediator: Estimating the effect of maternal age on preterm birth risk in the presence of misclassified gestational hypertension". Topic-contributed talk at the *Joint Statistical Meetings (JSM)*, Nashville, TN. August 2025.
 
 $~$
 
 #### Past
 
--   **KAH Webb**, SA Riley, and MT Wells, ["An assessment of racial disparities in pretrial decision-making using misclassification models"](https://github.com/kimberlywebb/docs/blob/f9ce847a3ce17316370fb4a6e9044c39683b00ff/KAH_Webb_JSM2024_Slides_WebsiteVersion.pdf?raw=true). Contributed talk at the *Joint Statistical Meetings*, Portland, OR. August 2024. 
+-   **KAH Webb** and MT Wells, ["Effect estimation in the presence of a misclassified binary mediator"](https://github.com/kimberlywebb/docs/blob/0dc46489b01436856aa56630cfd117b8f81a34df/KAH_Webb_WSDS2024_slides_website_version.pdf?raw=true). Invited talk at *Women in Statistics and Data Science*, Reston, VA. October 2024.
+
+-   **KAH Webb**, SA Riley, and MT Wells, ["An assessment of racial disparities in pretrial decision-making using misclassification models"](https://github.com/kimberlywebb/docs/blob/f9ce847a3ce17316370fb4a6e9044c39683b00ff/KAH_Webb_JSM2024_Slides_WebsiteVersion.pdf?raw=true). Contributed talk at the *Joint Statistical Meetings (JSM)*, Portland, OR. August 2024. 
 
 -   **KAH Webb** and MT Wells, ["Effect estimation in the presence of a misclassified binary mediator"](https://github.com/kimberlywebb/docs/blob/98d5153509436d0a66d1160b5056abc5bc16e6d6/KAH_Webb_ENAR_March2024_Slides.pdf?raw=true). Contributed talk at the *Eastern North American Region (ENAR) International Biometric Society*, Baltimore, MD. March 2024.
 
