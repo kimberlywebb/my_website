@@ -44,7 +44,7 @@ $~$
 
 -   **KAH Webb**, SA Riley, and MT Wells, "An assessment of racial disparities in pretrial decision-making using misclassification models". [arXiv:2309.08599](https://arxiv.org/abs/2309.08599).
 
--   **KAH Webb** and MT Wells, "COMBO and COMMA: R packages for regression modeling and inference in the presence of misclassified binary mediator or outcome variables".
+-   **KAH Webb** and MT Wells, "COMBO and COMMA: R packages for regression modeling and inference in the presence of misclassified binary mediator or outcome variables". [arXiv:2501.08320](https://arxiv.org/abs/2501.08320)
 $~$
 
 #### Peer-Reviewed Journal Articles

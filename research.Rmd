@@ -71,6 +71,8 @@ $~$
 My collaborative work has aimed to answer clinically valuable questions various areas of healthcare research, with a focus on creating useful scientific tools for clinicians and statisticians. Alongside methodological developments, I develop R packages so that fellow researchers can use the tools I created in their own work. In addition, I create R Shiny web applications so that scientists and clinicians can access new research tools in a user-friendly way. For a full list of my software, applications, and tutorials, please visit my "Software" page, [here](https://kimhwebb.com/software.html). 
 
 #### Related Projects
+- **KAH Webb** and MT Wells, "COMBO and COMMA: R packages for regression modeling and inference in the presence of misclassified binary mediator or outcome variables". [arXiv:2501.08320](https://arxiv.org/abs/2501.08320)  
+
 - **KAH Webb** (2024). [COMBO: Correcting Misclassified Binary Outcomes in Association Studies](https://kimberlywebb.github.io/COMBO/). R package version 1.1.0.
 
 - **KAH Webb** (2024). [COMMA: Correcting Misclassified Mediation Analysis](https://kimberlywebb.github.io/COMMA/). R package version 1.0.0.
