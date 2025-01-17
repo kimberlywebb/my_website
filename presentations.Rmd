@@ -41,6 +41,8 @@ $~$
 
 #### Upcoming
 
+-   **KAH Webb**, SA Riley, and MT Wells, "An assessment of racial disparities in pretrial decision-making using misclassification models". Contributed talk at the *Eastern North American Region (ENAR) International Biometric Society*, New Orleans, LA. March 2025.
+
 -   **KAH Webb** and MT Wells, "The misdiagnosed mediator: Estimating the effect of maternal age on preterm birth risk in the presence of misclassified gestational hypertension". Topic-contributed talk at the *Joint Statistical Meetings (JSM)*, Nashville, TN. August 2025.
 
 $~$
