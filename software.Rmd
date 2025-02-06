@@ -54,3 +54,7 @@ output:
 
 - A template and brief tutorial for creating websites using GitHub Pages and R is available on my [GitHub page](https://github.com/kimberlywebb/website_template).
 - Materials for my R Shiny tutorial (using [this web application](https://kimhochstedler.shinyapps.io/tswizzle/)) are available upon request.
+
+<center>
+<img align="center" src="color_palette_hex_stickers.png" style="width:80%">
+</center>
