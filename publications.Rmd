@@ -51,7 +51,7 @@ $~$
 
 -   **KAH Webb** and MT Wells, "Effect estimation in the presence of a misclassified binary mediator" In press at *Statistical Methods in Medical Research*.
 
--   **KAH Webb** and MT Wells, "Statistical inference for association studies in the presence of binary outcome misclassification". In press at *Statistics in Medicine*.
+-   **KAH Webb** and MT Wells, "Statistical inference for association studies in the presence of binary outcome misclassification". February 2025. *Statistics in Medicine*. [DOI:10.1002/sim.10316](https://onlinelibrary.wiley.com/doi/10.1002/sim.10316)
 
 -   **KA Hochstedler**${^*}$, F Fang${^*}$, R Tamura, T Braun, K Kidwell. "Bayesian methods to compare dose levels to placebo in a small n sequential multiple assignment randomized trial (snSMART)" February 2021. *Statistics in Medicine* [DOI:10.1002/sim.8813](https://doi.org/10.1002/sim.8813)
 
