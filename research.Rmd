@@ -43,7 +43,7 @@ $~$
 Much of my recent research is aimed at creating statistical methods for dealing with differential misclassification in binary outcome and mediator variables. In particular, I consider cases where a gold standard measure is not available— making validation studies impossible. I have applied these methods to study patterns of misdiagnosis in diseases like myocardial infarction and gestational hypertension. 
 
 #### Related Papers
--   **KAH Webb** and MT Wells, "Effect estimation in the presence of a misclassified binary mediator" In press at *Statistical Methods in Medical Research*.
+-   **KAH Webb** and MT Wells, "Effect estimation in the presence of a misclassified binary mediator". March 2025. *Statistical Methods in Medical Research*. [doi:10.1177/09622802251316970](https://journals.sagepub.com/eprint/PW4ZRM9CUAR5GIBGTWFT/full)
 
 -   **KAH Webb** and MT Wells, "Statistical inference for association studies in the presence of binary outcome misclassification". February 2025. *Statistics in Medicine*. [DOI:10.1002/sim.10316](https://onlinelibrary.wiley.com/doi/10.1002/sim.10316)
 
