@@ -41,13 +41,14 @@ $~$
 
 #### Upcoming
 
--   **KAH Webb**, SA Riley, and MT Wells, ["An assessment of racial disparities in pretrial decision-making using misclassification models"](https://github.com/kimberlywebb/docs/blob/3b5a4b01ad8daaa72c21d64937074891d4336f12/KAH_Webb_ENAR2025_Slides_WebsiteVersion.pdf?raw=true). Contributed talk at the *Eastern North American Region (ENAR) International Biometric Society*, New Orleans, LA. March 2025.
-
 -   **KAH Webb** and MT Wells, "The misdiagnosed mediator: Estimating the effect of maternal age on preterm birth risk in the presence of misclassified gestational hypertension". Topic-contributed talk at the *Joint Statistical Meetings (JSM)*, Nashville, TN. August 2025.
 
 $~$
 
 #### Past
+-   **KAH Webb**, "Nobody's (data is) perfect: How misclassified data biases study results, and what to do about it". Invited talk at the *University of Pittsburgh Health Services Research Seminar Series*, Pittsburgh, PA. April 2024.
+
+-   **KAH Webb**, SA Riley, and MT Wells, ["An assessment of racial disparities in pretrial decision-making using misclassification models"](https://github.com/kimberlywebb/docs/blob/3b5a4b01ad8daaa72c21d64937074891d4336f12/KAH_Webb_ENAR2025_Slides_WebsiteVersion.pdf?raw=true). Contributed talk at the *Eastern North American Region (ENAR) International Biometric Society*, New Orleans, LA. March 2025.
 
 -   **KAH Webb** and MT Wells, ["Effect estimation in the presence of a misclassified binary mediator"](https://github.com/kimberlywebb/docs/blob/0dc46489b01436856aa56630cfd117b8f81a34df/KAH_Webb_WSDS2024_slides_website_version.pdf?raw=true). Invited talk at *Women in Statistics and Data Science*, Reston, VA. October 2024.
 
