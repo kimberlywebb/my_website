@@ -36,7 +36,7 @@ border:5px solid; border-color:black">
 <center>
 I am an Assistant Professor in the Division of General Internal Medicine at the University of Pittsburgh. I earned my Ph.D. in Statistics from Cornell University in 2024 under the mentorship of [Dr. Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells). I received my MS in Biostatistics from the University of Michigan in 2020 and graduated with my BS in Statistics and Psychology from Carnegie Mellon University in 2018. My current research involves developing statistical methods for misclassified outcome and mediator variables in observational studies. I am interested in applications in healthcare, psychology, and criminal justice. 
    
-Please find my CV [here](https://github.com/kimberlywebb/docs/blob/11d4d708f192acc19efeb51a88e4813172804aac/KAH_Webb_CV.pdf?raw=true).   
+Please find my CV [here](https://github.com/kimberlywebb/docs/blob/bb03017ee7b208574278a39e336518263558946e/KAH_Webb_CV.pdf?raw=true).   
 </center>
 
 </div>

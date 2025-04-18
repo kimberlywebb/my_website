@@ -34,7 +34,7 @@ output:
 
 ## Selected Presentations
 
-Please see a full list on my [CV](https://github.com/kimberlywebb/docs/blob/11d4d708f192acc19efeb51a88e4813172804aac/KAH_Webb_CV.pdf?raw=true).
+Please see a full list on my [CV](https://github.com/kimberlywebb/docs/blob/bb03017ee7b208574278a39e336518263558946e/KAH_Webb_CV.pdf?raw=true).
 
 $~$
 $~$
@@ -46,7 +46,7 @@ $~$
 $~$
 
 #### Past
--   **KAH Webb**, "Nobody's (data is) perfect: How misclassified data biases study results, and what to do about it". Invited talk at the *University of Pittsburgh Health Services Research Seminar Series*, Pittsburgh, PA. April 2024.
+-   **KAH Webb**, "Nobody's (data is) perfect: How misclassified data biases study results, and what to do about it". Invited talk at the *University of Pittsburgh Health Services Research Seminar Series*, Pittsburgh, PA. April 2025.
 
 -   **KAH Webb**, SA Riley, and MT Wells, ["An assessment of racial disparities in pretrial decision-making using misclassification models"](https://github.com/kimberlywebb/docs/blob/3b5a4b01ad8daaa72c21d64937074891d4336f12/KAH_Webb_ENAR2025_Slides_WebsiteVersion.pdf?raw=true). Contributed talk at the *Eastern North American Region (ENAR) International Biometric Society*, New Orleans, LA. March 2025.
 

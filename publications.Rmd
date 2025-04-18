@@ -35,7 +35,7 @@ output:
 
 ## Selected Publications
 
-Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en) or my [CV](https://github.com/kimberlywebb/docs/blob/11d4d708f192acc19efeb51a88e4813172804aac/KAH_Webb_CV.pdf?raw=true).
+Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en) or my [CV](https://github.com/kimberlywebb/docs/blob/bb03017ee7b208574278a39e336518263558946e/KAH_Webb_CV.pdf?raw=true).
 
 $~$
 $~$
@@ -49,11 +49,19 @@ $~$
 $~$
 
 
-#### Peer-Reviewed Journal Articles
+#### Selected Peer-Reviewed Journal Articles
 
 -   **KAH Webb** and MT Wells, "Effect estimation in the presence of a misclassified binary mediator". March 2025. *Statistical Methods in Medical Research*. [doi:10.1177/09622802251316970](https://journals.sagepub.com/eprint/PW4ZRM9CUAR5GIBGTWFT/full)
 
+     - See the visual abstract for this paper [here](https://github.com/kimberlywebb/docs/blob/2e45ae76056483d4f8868eb99b80f1e19bab1694/Webb_mediation_SMMR_visual_abstract.png). 
+     
+</div>
+
 -   **KAH Webb** and MT Wells, "Statistical inference for association studies in the presence of binary outcome misclassification". February 2025. *Statistics in Medicine*. [DOI:10.1002/sim.10316](https://onlinelibrary.wiley.com/doi/10.1002/sim.10316)
+
+     - See the visual abstract for this paper [here](https://github.com/kimberlywebb/docs/blob/5c53226296f2e11db48d7523db1f17065b07f75e/SiM2025_VisualAbstract.png). 
+     
+</div>
 
 -   **KA Hochstedler**${^*}$, F Fang${^*}$, R Tamura, T Braun, K Kidwell. "Bayesian methods to compare dose levels to placebo in a small n sequential multiple assignment randomized trial (snSMART)" February 2021. *Statistics in Medicine* [DOI:10.1002/sim.8813](https://doi.org/10.1002/sim.8813)
 
