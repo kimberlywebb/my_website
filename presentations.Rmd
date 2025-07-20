@@ -34,7 +34,7 @@ output:
 
 ## Selected Presentations
 
-Please see a full list on my [CV](https://github.com/kimberlywebb/docs/blob/bb03017ee7b208574278a39e336518263558946e/KAH_Webb_CV.pdf?raw=true).
+Please see a full list on my [CV](https://github.com/kimberlywebb/docs/blob/35296179db3f33cfd6d69d0a8fc54ba1e2a92e38/KAH_Webb_CV.pdf?raw=true).
 
 $~$
 $~$
