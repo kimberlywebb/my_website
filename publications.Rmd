@@ -35,7 +35,7 @@ output:
 
 ## Selected Publications
 
-Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en) or my [CV](https://github.com/kimberlywebb/docs/blob/35296179db3f33cfd6d69d0a8fc54ba1e2a92e38/KAH_Webb_CV.pdf?raw=true).
+Please see a full list on my [Google Scholar page](https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en) or my [CV](https://github.com/kimberlywebb/docs/blob/22865bd0ed21d25a3fd4ccf3c2ad40eddcafec06/KAH_Webb_CV.pdf?raw=true).
 
 $~$
 $~$

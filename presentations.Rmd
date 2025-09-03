@@ -34,18 +34,21 @@ output:
 
 ## Selected Presentations
 
-Please see a full list on my [CV](https://github.com/kimberlywebb/docs/blob/35296179db3f33cfd6d69d0a8fc54ba1e2a92e38/KAH_Webb_CV.pdf?raw=true).
+Please see a full list on my [CV](https://github.com/kimberlywebb/docs/blob/22865bd0ed21d25a3fd4ccf3c2ad40eddcafec06/KAH_Webb_CV.pdf?raw=true).
 
 $~$
 $~$
 
 #### Upcoming
 
--   **KAH Webb** and MT Wells, ["The misdiagnosed mediator: Estimating the effect of maternal age on preterm birth risk in the presence of misclassified gestational hypertension"](https://github.com/kimberlywebb/docs/blob/738bc523fe7c679612858d1f9f191eb8327dd36b/KAH_Webb_JSM_slides_2025_website.pdf?raw=true). Topic-contributed talk at the *Joint Statistical Meetings (JSM)*, Nashville, TN. August 2025.
+-   **KAH Webb** and MT Wells, "The misdiagnosed mediator: Estimating the effect of maternal age on preterm birth risk in the presence of misclassified gestational hypertension". Invited talk at the *International Day of Women in Statistics and Data Science*, Virtual. October 2025.
+    - The conference is free! Register [here.](https://www.idwsds.org/)
 
 $~$
 
-#### Past
+#### Past 
+-   **KAH Webb** and MT Wells, ["The misdiagnosed mediator: Estimating the effect of maternal age on preterm birth risk in the presence of misclassified gestational hypertension"](https://github.com/kimberlywebb/docs/blob/738bc523fe7c679612858d1f9f191eb8327dd36b/KAH_Webb_JSM_slides_2025_website.pdf?raw=true). Topic-contributed talk at the *Joint Statistical Meetings (JSM)*, Nashville, TN. August 2025.       
+
 -   **KAH Webb**, "Nobody's (data is) perfect: How misclassified data biases study results, and what to do about it". Invited talk at the *University of Pittsburgh Health Services Research Seminar Series*, Pittsburgh, PA. April 2025.
 
 -   **KAH Webb**, SA Riley, and MT Wells, ["An assessment of racial disparities in pretrial decision-making using misclassification models"](https://github.com/kimberlywebb/docs/blob/3b5a4b01ad8daaa72c21d64937074891d4336f12/KAH_Webb_ENAR2025_Slides_WebsiteVersion.pdf?raw=true). Contributed talk at the *Eastern North American Region (ENAR) International Biometric Society*, New Orleans, LA. March 2025.
