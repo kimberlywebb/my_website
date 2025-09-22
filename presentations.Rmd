@@ -41,7 +41,7 @@ $~$
 
 #### Upcoming
 
--   **KAH Webb** and MT Wells, "The misdiagnosed mediator: Estimating the effect of maternal age on preterm birth risk in the presence of misclassified gestational hypertension". Invited talk at the *International Day of Women in Statistics and Data Science*, Virtual. October 2025.
+-   **KAH Webb** and MT Wells, ["The misdiagnosed mediator: Estimating the effect of maternal age on preterm birth risk in the presence of misclassified gestational hypertension"](https://github.com/kimberlywebb/docs/blob/24af92701eebc84ad7869b1624b8a0c19e8910b4/KAH_Webb_IDWSDS2025_slides_website.pdf?raw=true). Invited talk at the *International Day of Women in Statistics and Data Science*, Virtual. October 2025.
     - The conference is free! Register [here.](https://www.idwsds.org/)
 
 $~$
