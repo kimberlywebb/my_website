@@ -52,7 +52,7 @@ data <- data.frame(
   id      = 1:11,
   content = c("Carnegie Mellon", "SIBS", "Helgeson Lab", "NIH",
               "UMich", "MROQC", "Cornell", "CTI", "rddapp", "LinkedIn",
-              "Pitt GIM"),
+              "Pitt DGIM"),
   start   = c("2014-08-28", "2015-06-07", "2015-01-15", "2017-05-22",
               "2018-09-01", "2018-09-01",
               "2020-08-24",
@@ -97,5 +97,5 @@ timevis(data, width = 1000, height = 200,
 - **CTI:** Senior lead fellow in Cornell University's Center for Teaching Innovation [Graduate Teaching Fellowship](https://teaching.cornell.edu/cti-graduate-teaching-fellowship)
 - **rddapp:** Research assistantship with [Felix Thoemmes](https://www.human.cornell.edu/people/fjt36) to update the ["rddapp" R package](https://www.felixthoemmes.com/rddapp/)
 - **LinkedIn:** PhD research fellow with the [Bowers CIS Strategic Partnership Program with LinkedIn](https://news.cornell.edu/stories/2022/03/linkedin-cornell-bowers-cis-launch-strategic-partnership)
-- **Pitt GIM:** Assistant Professor in the [Division of General Internal Medicine at the University of Pittsburgh](https://dom.pitt.edu/dgim/)
+- **Pitt DGIM:** Assistant Professor in the [Division of General Internal Medicine at the University of Pittsburgh](https://dom.pitt.edu/dgim/)
 
