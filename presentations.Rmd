@@ -41,9 +41,9 @@ $~$
 
 #### Upcoming
 
--   **KAH Webb** and DJ Kent, "Aging gracefully, reporting accurately? Quantifying and correcting for reporting errors in self-rated health among older adults". Invited talk at *Women in Statistics and Data Science*, Cincinnati, OH. October 2026. 
+-   **KAH Webb** and DJ Kent, ["Aging gracefully, reporting accurately? Quantifying and correcting for reporting errors in self-rated health among older adults"](https://drive.google.com/file/d/1UH5IZWJIqYbxTPu07TJ0OxKRGbG_4snZ/view?usp=sharing). Invited talk at *Women in Statistics and Data Science*, Cincinnati, OH. October 2026. 
 
--   **KAH Webb**, "A Shiny new way to share survey results: Building and evaluating a clinical dashboard". Invited talk at *Women in Statistics and Data Science*, Cincinnati, OH. October 2026. 
+-   **KAH Webb**, ["A Shiny new way to share survey results: Building and evaluating a clinical dashboard"](https://drive.google.com/file/d/1Tz_zuTvdN-brH1Lmff1t8HGeLa1E_Z2e/view?usp=sharing). Invited talk at *Women in Statistics and Data Science*, Cincinnati, OH. October 2026. 
 
 -   **KAH Webb** and A Lane, "Data-Driven storytelling with Quarto: From research question to accessible reporting". Tutorial at the *Eastern North American Region (ENAR) International Biometric Society*, Indianapolis, IN. March 2027.
 
